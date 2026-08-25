@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Secure Agent Login</title>
+
+    <link
+        rel="stylesheet"
+        href="/style.css"
+    >
+
+</head>
+
+<body class="login-page">
+
+<div class="login-card">
+
+    <div class="login-logo">
+        🛡
+    </div>
+
+    <h1>
+        Sentinel Monitor
+    </h1>
+
+    <p class="login-subtitle">
+        Windows Security Monitoring Agent
+    </p>
+
+    <form id="loginForm">
+
+        <label>
+            Username
+        </label>
+
+        <input
+            type="text"
+            id="username"
+            placeholder="Enter username"
+            autocomplete="username"
+            required
+        >
+
+        <label>
+            Password
+        </label>
+
+        <input
+            type="password"
+            id="password"
+            placeholder="Enter password"
+            autocomplete="current-password"
+            required
+        >
+
+        <button
+            type="submit"
+            class="primary-button"
+        >
+            Secure Login
+        </button>
+
+        <div
+            id="loginError"
+            class="login-error"
+        ></div>
+
+    </form>
+
+    <div class="security-note">
+        🔒 Authorized personnel only
+    </div>
+
+</div>
+
+<script>
+
+const form =
+    document.getElementById("loginForm");
+
+const error =
+    document.getElementById("loginError");
+
+
+form.addEventListener(
+    "submit",
+    async function(event) {
+
+        event.preventDefault();
+
+        error.textContent = "";
+
+        const username =
+            document.getElementById(
+                "username"
+            ).value;
+
+        const password =
+            document.getElementById(
+                "password"
+            ).value;
+
+        try {
+
+            const response =
+                await fetch(
+                    "/api/login",
+                    {
+                        method: "POST",
+                        headers: {
+                            "Content-Type":
+                                "application/json"
+                        },
+                        body: JSON.stringify({
+                            username,
+                            password
+                        })
+                    }
+                );
+
+            const data =
+                await response.json();
+
+            if (data.success) {
+
+                window.location.href = "/";
+
+            } else {
+
+                error.textContent =
+                    data.error ||
+                    "Login failed.";
+
+            }
+
+        } catch (err) {
+
+            error.textContent =
+                "Unable to connect to the monitoring agent.";
+
+        }
+
+    }
+);
+
+</script>
+
+</body>
+
+</html>

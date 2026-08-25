@@ -1,0 +1,1107 @@
+2026-08-25 12:37:53,398 | WARNING | High CPU usage detected: System Idle Process PID=0 CPU=1263.3%
+2026-08-25 12:37:53,422 | INFO | Process detected: System Idle Process PID=0
+2026-08-25 12:37:53,456 | INFO | Process detected: System PID=4
+2026-08-25 12:37:53,486 | INFO | Process detected: Unknown PID=188
+2026-08-25 12:37:53,514 | INFO | Process detected: Registry PID=232
+2026-08-25 12:37:53,542 | INFO | Process detected: Code.exe PID=412
+2026-08-25 12:37:53,567 | INFO | Process detected: svchost.exe PID=816
+2026-08-25 12:37:53,587 | INFO | Process detected: smss.exe PID=832
+2026-08-25 12:37:53,608 | INFO | Process detected: pet.exe PID=960
+2026-08-25 12:37:53,636 | INFO | Process detected: csrss.exe PID=1240
+2026-08-25 12:37:53,662 | INFO | Process detected: wininit.exe PID=1348
+2026-08-25 12:37:53,681 | INFO | Process detected: services.exe PID=1424
+2026-08-25 12:37:53,704 | INFO | Process detected: LsaIso.exe PID=1444
+2026-08-25 12:37:53,733 | INFO | Process detected: lsass.exe PID=1452
+2026-08-25 12:37:53,758 | INFO | Process detected: svchost.exe PID=1580
+2026-08-25 12:37:53,786 | INFO | Process detected: fontdrvhost.exe PID=1612
+2026-08-25 12:37:53,815 | INFO | Process detected: WUDFHost.exe PID=1648
+2026-08-25 12:37:53,840 | INFO | Process detected: RtkAudUService64.exe PID=1684
+2026-08-25 12:37:53,865 | INFO | Process detected: svchost.exe PID=1724
+2026-08-25 12:37:53,890 | INFO | Process detected: svchost.exe PID=1764
+2026-08-25 12:37:53,916 | INFO | Process detected: WUDFHost.exe PID=1796
+2026-08-25 12:37:53,941 | INFO | Process detected: WUDFHost.exe PID=1852
+2026-08-25 12:37:53,972 | INFO | Process detected: WUDFHost.exe PID=1900
+2026-08-25 12:37:54,024 | INFO | Process detected: WUDFHost.exe PID=1952
+2026-08-25 12:37:54,068 | INFO | Process detected: svchost.exe PID=2084
+2026-08-25 12:37:54,123 | INFO | Process detected: dwm.exe PID=2148
+2026-08-25 12:37:54,157 | INFO | Process detected: NVDisplay.Container.exe PID=2208
+2026-08-25 12:37:54,181 | INFO | Process detected: svchost.exe PID=2268
+2026-08-25 12:37:54,205 | INFO | Process detected: svchost.exe PID=2276
+2026-08-25 12:37:54,236 | INFO | Process detected: svchost.exe PID=2356
+2026-08-25 12:37:54,268 | INFO | Process detected: IntelCpHDCPSvc.exe PID=2364
+2026-08-25 12:37:54,319 | INFO | Process detected: svchost.exe PID=2372
+2026-08-25 12:37:54,346 | INFO | Process detected: svchost.exe PID=2384
+2026-08-25 12:37:54,364 | INFO | Process detected: svchost.exe PID=2396
+2026-08-25 12:37:54,410 | INFO | Process detected: OpenConsole.exe PID=2416
+2026-08-25 12:37:54,431 | INFO | Process detected: svchost.exe PID=2536
+2026-08-25 12:37:54,452 | INFO | Process detected: svchost.exe PID=2588
+2026-08-25 12:37:54,481 | INFO | Process detected: svchost.exe PID=2696
+2026-08-25 12:37:54,505 | INFO | Process detected: winlogon.exe PID=2724
+2026-08-25 12:37:54,524 | INFO | Process detected: svchost.exe PID=2740
+2026-08-25 12:37:54,549 | INFO | Process detected: msedgewebview2.exe PID=2772
+2026-08-25 12:37:54,578 | INFO | Process detected: svchost.exe PID=2868
+2026-08-25 12:37:54,617 | INFO | Process detected: svchost.exe PID=2992
+2026-08-25 12:37:54,635 | INFO | Process detected: explorer.exe PID=3008
+2026-08-25 12:37:54,652 | INFO | Process detected: svchost.exe PID=3040
+2026-08-25 12:37:54,675 | INFO | Process detected: svchost.exe PID=3128
+2026-08-25 12:37:54,699 | INFO | Process detected: svchost.exe PID=3160
+2026-08-25 12:37:54,717 | INFO | Process detected: svchost.exe PID=3216
+2026-08-25 12:37:54,732 | INFO | Process detected: svchost.exe PID=3224
+2026-08-25 12:37:54,747 | INFO | Process detected: svchost.exe PID=3232
+2026-08-25 12:37:54,762 | INFO | Process detected: svchost.exe PID=3336
+2026-08-25 12:37:54,784 | INFO | Process detected: svchost.exe PID=3372
+2026-08-25 12:37:54,804 | INFO | Process detected: MemCompression PID=3388
+2026-08-25 12:37:54,826 | INFO | Process detected: svchost.exe PID=3448
+2026-08-25 12:37:54,846 | INFO | Process detected: svchost.exe PID=3504
+2026-08-25 12:37:54,863 | INFO | Process detected: svchost.exe PID=3512
+2026-08-25 12:37:54,887 | INFO | Process detected: svchost.exe PID=3568
+2026-08-25 12:37:54,912 | INFO | Process detected: svchost.exe PID=3656
+2026-08-25 12:37:54,931 | INFO | Process detected: svchost.exe PID=3676
+2026-08-25 12:37:54,970 | INFO | Process detected: svchost.exe PID=3700
+2026-08-25 12:37:54,990 | INFO | Process detected: MessagingPlugin.exe PID=3720
+2026-08-25 12:37:55,032 | INFO | Process detected: svchost.exe PID=3880
+2026-08-25 12:37:55,052 | INFO | Process detected: svchost.exe PID=3912
+2026-08-25 12:37:55,096 | INFO | Process detected: svchost.exe PID=3920
+2026-08-25 12:37:55,119 | INFO | Process detected: msedge.exe PID=4000
+2026-08-25 12:37:55,141 | INFO | Process detected: svchost.exe PID=4120
+2026-08-25 12:37:55,168 | INFO | Process detected: spoolsv.exe PID=4188
+2026-08-25 12:37:55,196 | INFO | Process detected: svchost.exe PID=4220
+2026-08-25 12:37:55,222 | INFO | Process detected: svchost.exe PID=4260
+2026-08-25 12:37:55,280 | INFO | Process detected: svchost.exe PID=4300
+2026-08-25 12:37:55,314 | INFO | Process detected: svchost.exe PID=4368
+2026-08-25 12:37:55,342 | INFO | Process detected: svchost.exe PID=4488
+2026-08-25 12:37:55,361 | INFO | Process detected: svchost.exe PID=4516
+2026-08-25 12:37:55,382 | INFO | Process detected: AISControlService.exe PID=4536
+2026-08-25 12:37:55,398 | INFO | Process detected: FnHotkeyCapsLKNumLK.exe PID=4548
+2026-08-25 12:37:55,421 | INFO | Process detected: svchost.exe PID=4552
+2026-08-25 12:37:55,447 | INFO | Process detected: svchost.exe PID=4560
+2026-08-25 12:37:55,464 | INFO | Process detected: Lenovo.Modern.ImController.exe PID=4640
+2026-08-25 12:37:55,490 | INFO | Process detected: AnyDesk.exe PID=4648
+2026-08-25 12:37:55,508 | INFO | Process detected: svchost.exe PID=4656
+2026-08-25 12:37:55,530 | INFO | Process detected: svchost.exe PID=4664
+2026-08-25 12:37:55,559 | INFO | Process detected: svchost.exe PID=4672
+2026-08-25 12:37:55,584 | INFO | Process detected: ipf_uf.exe PID=4700
+2026-08-25 12:37:55,606 | INFO | Process detected: XtuService.exe PID=4708
+2026-08-25 12:37:55,625 | INFO | Process detected: IntelAudioService.exe PID=4752
+2026-08-25 12:37:55,640 | INFO | Process detected: RtkBtManServ.exe PID=4760
+2026-08-25 12:37:55,667 | INFO | Process detected: NahimicService.exe PID=4768
+2026-08-25 12:37:55,694 | INFO | Process detected: LenovoUtilityService.exe PID=4784
+2026-08-25 12:37:55,720 | INFO | Process detected: nvcontainer.exe PID=4792
+2026-08-25 12:37:55,736 | INFO | Process detected: ipfsvc.exe PID=4800
+2026-08-25 12:37:55,752 | INFO | Process detected: LenovoVantageService.exe PID=4808
+2026-08-25 12:37:55,767 | INFO | Process detected: RtkAudUService64.exe PID=4880
+2026-08-25 12:37:55,782 | INFO | Process detected: jhi_service.exe PID=4900
+2026-08-25 12:37:55,797 | INFO | Process detected: WMIRegistrationService.exe PID=4912
+2026-08-25 12:37:55,825 | INFO | Process detected: turbo_vpn-service.exe PID=4920
+2026-08-25 12:37:55,863 | INFO | Process detected: MsMpEng.exe PID=4940
+2026-08-25 12:37:55,890 | INFO | Process detected: Code.exe PID=4948
+2026-08-25 12:37:55,931 | INFO | Process detected: msedgewebview2.exe PID=5076
+2026-08-25 12:37:55,952 | INFO | Process detected: RtkAudUService64.exe PID=5092
+2026-08-25 12:37:55,971 | INFO | Process detected: MpDefenderCoreService.exe PID=5112
+2026-08-25 12:37:56,003 | INFO | Process detected: mongod.exe PID=5188
+2026-08-25 12:37:56,037 | INFO | Process detected: LenovoVantage-(VantageCoreAddin).exe PID=5200
+2026-08-25 12:37:56,074 | INFO | Process detected: svchost.exe PID=5464
+2026-08-25 12:37:56,093 | INFO | Process detected: msedgewebview2.exe PID=5548
+2026-08-25 12:37:56,110 | INFO | Process detected: unsecapp.exe PID=5688
+2026-08-25 12:37:56,138 | INFO | Process detected: svchost.exe PID=5692
+2026-08-25 12:37:56,165 | INFO | Process detected: svchost.exe PID=5700
+2026-08-25 12:37:56,181 | INFO | Process detected: NVIDIA Share.exe PID=5752
+2026-08-25 12:37:56,200 | INFO | Process detected: msedgewebview2.exe PID=5824
+2026-08-25 12:37:56,220 | INFO | Process detected: svchost.exe PID=5948
+2026-08-25 12:37:56,244 | INFO | Process detected: svchost.exe PID=5956
+2026-08-25 12:37:56,270 | INFO | Process detected: Code.exe PID=6056
+2026-08-25 12:37:56,294 | INFO | Process detected: Code.exe PID=6220
+2026-08-25 12:37:56,313 | INFO | Process detected: svchost.exe PID=6292
+2026-08-25 12:37:56,337 | INFO | Process detected: TiWorker.exe PID=6372
+2026-08-25 12:37:56,353 | INFO | Process detected: AppProvisioningPlugin.exe PID=6392
+2026-08-25 12:37:56,372 | INFO | Process detected: Widgets.exe PID=6404
+2026-08-25 12:37:56,388 | INFO | Process detected: mscopilot.exe PID=6412
+2026-08-25 12:37:56,404 | INFO | Process detected: Code.exe PID=6656
+2026-08-25 12:37:56,418 | INFO | Process detected: Code.exe PID=6684
+2026-08-25 12:37:56,443 | INFO | Process detected: mscopilot.exe PID=6804
+2026-08-25 12:37:56,460 | INFO | Process detected: UDClientService.exe PID=6820
+2026-08-25 12:37:56,483 | INFO | Process detected: msedgewebview2.exe PID=6852
+2026-08-25 12:37:56,537 | INFO | Process detected: AnyDesk.exe PID=6864
+2026-08-25 12:37:56,558 | INFO | Process detected: NahimicSvc64.exe PID=6920
+2026-08-25 12:37:56,574 | INFO | Process detected: Code.exe PID=7128
+2026-08-25 12:37:56,601 | INFO | Process detected: NVDisplay.Container.exe PID=7272
+2026-08-25 12:37:56,624 | INFO | Process detected: msedgewebview2.exe PID=7324
+2026-08-25 12:37:56,646 | INFO | Process detected: svchost.exe PID=7488
+2026-08-25 12:37:56,660 | INFO | Process detected: NahimicAPO4Volume.exe PID=7520
+2026-08-25 12:37:56,686 | INFO | Process detected: mscopilot.exe PID=7544
+2026-08-25 12:37:56,711 | INFO | Process detected: unsecapp.exe PID=7704
+2026-08-25 12:37:56,739 | INFO | Process detected: Code.exe PID=7900
+2026-08-25 12:37:56,757 | INFO | Process detected: RuntimeBroker.exe PID=8024
+2026-08-25 12:37:56,775 | INFO | Process detected: WmiPrvSE.exe PID=8124
+2026-08-25 12:37:56,789 | INFO | Process detected: chrome.exe PID=8160
+2026-08-25 12:37:56,811 | INFO | Process detected: csrss.exe PID=8284
+2026-08-25 12:37:56,830 | INFO | Process detected: conhost.exe PID=8356
+2026-08-25 12:37:56,844 | INFO | Process detected: ShellExperienceHost.exe PID=8368
+2026-08-25 12:37:56,859 | INFO | Process detected: SearchFilterHost.exe PID=8520
+2026-08-25 12:37:56,875 | INFO | Process detected: svchost.exe PID=8708
+2026-08-25 12:37:56,896 | INFO | Process detected: FnHotkeyUtility.exe PID=8860
+2026-08-25 12:37:56,915 | INFO | Process detected: svchost.exe PID=8908
+2026-08-25 12:37:56,929 | INFO | Process detected: svchost.exe PID=8912
+2026-08-25 12:37:56,950 | INFO | Process detected: AggregatorHost.exe PID=8936
+2026-08-25 12:37:56,973 | INFO | Process detected: IntelGraphicsSoftware.Service.exe PID=8948
+2026-08-25 12:37:56,995 | INFO | Process detected: PresentMonService.exe PID=9312
+2026-08-25 12:37:57,010 | INFO | Process detected: conhost.exe PID=9320
+2026-08-25 12:37:57,032 | INFO | Process detected: chrome.exe PID=9324
+2026-08-25 12:37:57,059 | INFO | Process detected: msedgewebview2.exe PID=9356
+2026-08-25 12:37:57,087 | INFO | Process detected: WmiApSrv.exe PID=9464
+2026-08-25 12:37:57,105 | INFO | Process detected: svchost.exe PID=9644
+2026-08-25 12:37:57,120 | INFO | Process detected: Code.exe PID=9652
+2026-08-25 12:37:57,135 | INFO | Process detected: StartMenuExperienceHost.exe PID=9940
+2026-08-25 12:37:57,159 | INFO | Process detected: chrome.exe PID=9984
+2026-08-25 12:37:57,188 | INFO | Process detected: SearchIndexer.exe PID=10180
+2026-08-25 12:37:57,207 | INFO | Process detected: svchost.exe PID=10340
+2026-08-25 12:37:57,233 | INFO | Process detected: WidgetService.exe PID=10472
+2026-08-25 12:37:57,249 | INFO | Process detected: svchost.exe PID=10560
+2026-08-25 12:37:57,274 | INFO | Process detected: Code.exe PID=10608
+2026-08-25 12:37:57,297 | INFO | Process detected: svchost.exe PID=10756
+2026-08-25 12:37:57,318 | INFO | Process detected: WmiPrvSE.exe PID=10760
+2026-08-25 12:37:57,334 | INFO | Process detected: msedgewebview2.exe PID=10864
+2026-08-25 12:37:57,350 | INFO | Process detected: msedgewebview2.exe PID=10944
+2026-08-25 12:37:57,366 | INFO | Process detected: svchost.exe PID=11128
+2026-08-25 12:37:57,382 | INFO | Process detected: RuntimeBroker.exe PID=11160
+2026-08-25 12:37:57,396 | INFO | Process detected: msedgewebview2.exe PID=11228
+2026-08-25 12:37:57,419 | INFO | Process detected: NisSrv.exe PID=11304
+2026-08-25 12:37:57,444 | INFO | Process detected: svchost.exe PID=11324
+2026-08-25 12:37:57,461 | INFO | Process detected: msedgewebview2.exe PID=11476
+2026-08-25 12:37:57,485 | INFO | Process detected: nvsphelper64.exe PID=11604
+2026-08-25 12:37:57,502 | INFO | Process detected: conhost.exe PID=11724
+2026-08-25 12:37:57,525 | INFO | Process detected: msedgewebview2.exe PID=11812
+2026-08-25 12:37:57,543 | INFO | Process detected: powershell.exe PID=12136
+2026-08-25 12:37:57,558 | INFO | Process detected: svchost.exe PID=12184
+2026-08-25 12:37:57,581 | INFO | Process detected: RuntimeBroker.exe PID=12220
+2026-08-25 12:37:57,600 | INFO | Process detected: conhost.exe PID=12292
+2026-08-25 12:37:57,616 | INFO | Process detected: msedgewebview2.exe PID=12348
+2026-08-25 12:37:57,648 | INFO | Process detected: svchost.exe PID=12404
+2026-08-25 12:37:57,675 | INFO | Process detected: UnzipWatcher.exe PID=12576
+2026-08-25 12:37:57,707 | INFO | Process detected: SecurityHealthService.exe PID=12604
+2026-08-25 12:37:57,726 | INFO | Process detected: msedgewebview2.exe PID=12620
+2026-08-25 12:37:57,748 | INFO | Process detected: mscopilot.exe PID=12940
+2026-08-25 12:37:57,775 | INFO | Process detected: svchost.exe PID=13100
+2026-08-25 12:37:57,802 | INFO | Process detected: SearchFilterHost.exe PID=13176
+2026-08-25 12:37:57,829 | INFO | Process detected: conhost.exe PID=13488
+2026-08-25 12:37:57,847 | INFO | Process detected: sppsvc.exe PID=13524
+2026-08-25 12:37:57,860 | INFO | Process detected: Code.exe PID=13748
+2026-08-25 12:37:57,884 | INFO | Process detected: msedgewebview2.exe PID=13932
+2026-08-25 12:37:57,903 | INFO | Process detected: LockApp.exe PID=13960
+2026-08-25 12:37:57,918 | INFO | Process detected: msedgewebview2.exe PID=14056
+2026-08-25 12:37:57,933 | INFO | Process detected: SearchFilterHost.exe PID=14332
+2026-08-25 12:37:57,947 | INFO | Process detected: msedgewebview2.exe PID=14344
+2026-08-25 12:37:57,970 | INFO | Process detected: msedgewebview2.exe PID=14428
+2026-08-25 12:37:57,997 | INFO | Process detected: chrome.exe PID=14452
+2026-08-25 12:37:58,016 | INFO | Process detected: RuntimeBroker.exe PID=14492
+2026-08-25 12:37:58,031 | INFO | Process detected: chrome.exe PID=14496
+2026-08-25 12:37:58,072 | INFO | Process detected: svchost.exe PID=14520
+2026-08-25 12:37:58,092 | INFO | Process detected: svchost.exe PID=14528
+2026-08-25 12:37:58,108 | INFO | Process detected: RuntimeBroker.exe PID=14616
+2026-08-25 12:37:58,119 | INFO | Process detected: RuntimeBroker.exe PID=14652
+2026-08-25 12:37:58,391 | INFO | Process detected: SearchHost.exe PID=14656
+2026-08-25 12:37:58,472 | INFO | Process detected: CrossDeviceResume.exe PID=14688
+2026-08-25 12:37:58,519 | INFO | Process detected: Code.exe PID=14792
+2026-08-25 12:37:58,568 | INFO | Process detected: smartscreen.exe PID=14796
+2026-08-25 12:37:58,594 | INFO | Process detected: msedge.exe PID=14888
+2026-08-25 12:37:58,625 | INFO | Process detected: ms-teams.exe PID=15028
+2026-08-25 12:37:58,654 | INFO | Process detected: msedgewebview2.exe PID=15148
+2026-08-25 12:37:58,679 | INFO | Process detected: RuntimeBroker.exe PID=15248
+2026-08-25 12:37:58,706 | INFO | Process detected: CrossDeviceService.exe PID=15392
+2026-08-25 12:37:58,730 | INFO | Process detected: ctfmon.exe PID=15412
+2026-08-25 12:37:58,757 | INFO | Process detected: RuntimeBroker.exe PID=15468
+2026-08-25 12:37:58,783 | INFO | Process detected: svchost.exe PID=15512
+2026-08-25 12:37:58,810 | INFO | Process detected: powershell.exe PID=15788
+2026-08-25 12:37:58,836 | INFO | Process detected: unsecapp.exe PID=15824
+2026-08-25 12:37:58,880 | INFO | Process detected: nahimicNotifSys.exe PID=15836
+2026-08-25 12:37:58,907 | INFO | Process detected: msedgewebview2.exe PID=16020
+2026-08-25 12:37:58,933 | INFO | Process detected: OneDrive.exe PID=16052
+2026-08-25 12:37:58,959 | INFO | Process detected: ShellHost.exe PID=16112
+2026-08-25 12:37:58,985 | INFO | Process detected: msedgewebview2.exe PID=16152
+2026-08-25 12:37:59,012 | INFO | Process detected: PhoneExperienceHost.exe PID=16188
+2026-08-25 12:37:59,039 | INFO | Process detected: audiodg.exe PID=16236
+2026-08-25 12:37:59,066 | INFO | Process detected: mscopilot.exe PID=16452
+2026-08-25 12:37:59,092 | INFO | Process detected: TrustedInstaller.exe PID=16680
+2026-08-25 12:37:59,112 | INFO | Process detected: svchost.exe PID=16720
+2026-08-25 12:37:59,136 | INFO | Process detected: LenovoVantage-(LenovoGamingSystemAddin).exe PID=16772
+2026-08-25 12:37:59,164 | INFO | Process detected: codex.exe PID=17020
+2026-08-25 12:37:59,189 | INFO | Process detected: LenovoVantage-(GenericMessagingAddin).exe PID=17248
+2026-08-25 12:37:59,217 | INFO | Process detected: chrome.exe PID=17256
+2026-08-25 12:37:59,245 | INFO | Process detected: fontdrvhost.exe PID=17276
+2026-08-25 12:37:59,263 | INFO | Process detected: msedge.exe PID=17336
+2026-08-25 12:37:59,287 | INFO | Process detected: OpenConsole.exe PID=17524
+2026-08-25 12:37:59,304 | INFO | Process detected: RuntimeBroker.exe PID=17644
+2026-08-25 12:37:59,324 | INFO | Process detected: Code.exe PID=17728
+2026-08-25 12:37:59,348 | INFO | Process detected: svchost.exe PID=17908
+2026-08-25 12:37:59,371 | INFO | Process detected: taskhostw.exe PID=18032
+2026-08-25 12:37:59,397 | INFO | Process detected: msedgewebview2.exe PID=18156
+2026-08-25 12:37:59,423 | INFO | Process detected: svchost.exe PID=18188
+2026-08-25 12:37:59,452 | INFO | Process detected: WhatsApp.Root.exe PID=18200
+2026-08-25 12:37:59,478 | INFO | Process detected: msedgewebview2.exe PID=18220
+2026-08-25 12:37:59,508 | INFO | Process detected: Code.exe PID=18412
+2026-08-25 12:37:59,550 | INFO | Process detected: SEGameTool.exe PID=18480
+2026-08-25 12:37:59,576 | INFO | Process detected: svchost.exe PID=18648
+2026-08-25 12:37:59,609 | INFO | Process detected: svchost.exe PID=18836
+2026-08-25 12:37:59,639 | INFO | Process detected: SearchFilterHost.exe PID=18928
+2026-08-25 12:37:59,664 | INFO | Process detected: sihost.exe PID=19000
+2026-08-25 12:37:59,690 | INFO | Process detected: svchost.exe PID=19184
+2026-08-25 12:37:59,716 | INFO | Process detected: svchost.exe PID=19200
+2026-08-25 12:37:59,744 | INFO | Process detected: svchost.exe PID=19224
+2026-08-25 12:37:59,762 | INFO | Process detected: NVIDIA Share.exe PID=19324
+2026-08-25 12:37:59,784 | INFO | Process detected: msedgewebview2.exe PID=19372
+2026-08-25 12:38:00,012 | INFO | Process detected: Code.exe PID=19484
+2026-08-25 12:38:00,043 | INFO | Process detected: backgroundTaskHost.exe PID=19528
+2026-08-25 12:38:00,091 | INFO | Process detected: ms-teams.exe PID=19532
+2026-08-25 12:38:00,117 | INFO | Process detected: QSHelper.exe PID=19628
+2026-08-25 12:38:00,160 | INFO | Process detected: Code.exe PID=19684
+2026-08-25 12:38:00,187 | INFO | Process detected: ipf_helper.exe PID=19764
+2026-08-25 12:38:00,211 | INFO | Process detected: NVIDIA Web Helper.exe PID=19808
+2026-08-25 12:38:00,234 | INFO | Process detected: python.exe PID=19912
+2026-08-25 12:38:00,261 | INFO | Process detected: nvcontainer.exe PID=19924
+2026-08-25 12:38:00,285 | INFO | Process detected: msedge.exe PID=20032
+2026-08-25 12:38:00,311 | INFO | Process detected: python.exe PID=20068
+2026-08-25 12:38:00,354 | INFO | Process detected: svchost.exe PID=20304
+2026-08-25 12:38:00,383 | INFO | Process detected: svchost.exe PID=20472
+2026-08-25 12:38:00,414 | INFO | Process detected: svchost.exe PID=20740
+2026-08-25 12:38:00,454 | INFO | Process detected: msedge.exe PID=20880
+2026-08-25 12:38:00,500 | INFO | Process detected: SearchProtocolHost.exe PID=21056
+2026-08-25 12:38:00,534 | INFO | Process detected: chrome.exe PID=21240
+2026-08-25 12:38:00,579 | INFO | Process detected: svchost.exe PID=21256
+2026-08-25 12:38:00,606 | INFO | Process detected: Code.exe PID=21360
+2026-08-25 12:38:00,634 | INFO | Process detected: msedgewebview2.exe PID=21380
+2026-08-25 12:38:00,663 | INFO | Process detected: Locator.exe PID=21388
+2026-08-25 12:38:00,683 | INFO | Process detected: msedgewebview2.exe PID=21464
+2026-08-25 12:38:00,698 | INFO | Process detected: Nahimic3.exe PID=21496
+2026-08-25 12:38:00,729 | INFO | Process detected: UserOOBEBroker.exe PID=21624
+2026-08-25 12:38:00,757 | INFO | Process detected: svchost.exe PID=21656
+2026-08-25 12:38:00,782 | INFO | Process detected: chrome.exe PID=21696
+2026-08-25 12:38:00,808 | INFO | Process detected: ApplicationFrameHost.exe PID=21936
+2026-08-25 12:38:00,828 | INFO | Process detected: svchost.exe PID=21968
+2026-08-25 12:38:00,843 | INFO | Process detected: SecurityHealthSystray.exe PID=22216
+2026-08-25 12:38:00,867 | INFO | Process detected: svchost.exe PID=22292
+2026-08-25 12:38:00,894 | INFO | Process detected: svchost.exe PID=22348
+2026-08-25 12:38:00,916 | INFO | Process detected: svchost.exe PID=22356
+2026-08-25 12:38:00,932 | INFO | Process detected: svchost.exe PID=22364
+2026-08-25 12:38:00,956 | INFO | Process detected: NVIDIA Share.exe PID=22480
+2026-08-25 12:38:00,973 | INFO | Process detected: chrome.exe PID=22496
+2026-08-25 12:38:00,989 | INFO | Process detected: svchost.exe PID=22500
+2026-08-25 12:38:01,003 | INFO | Process detected: chrome.exe PID=22552
+2026-08-25 12:38:01,024 | INFO | Process detected: conhost.exe PID=22664
+2026-08-25 12:38:01,049 | INFO | Process detected: nvcontainer.exe PID=23020
+2026-08-25 12:38:01,067 | INFO | Process detected: Code.exe PID=23104
+2026-08-25 12:38:01,084 | INFO | Process detected: svchost.exe PID=23196
+2026-08-25 12:38:01,098 | INFO | Process detected: svchost.exe PID=23228
+2026-08-25 12:38:01,114 | INFO | Process detected: SystemSettings.exe PID=23272
+2026-08-25 12:38:01,129 | INFO | Process detected: NahimicSvc32.exe PID=23388
+2026-08-25 12:38:01,150 | INFO | Process detected: MoUsoCoreWorker.exe PID=23416
+2026-08-25 12:38:01,169 | INFO | Process detected: SearchFilterHost.exe PID=23464
+2026-08-25 12:38:01,192 | INFO | Process detected: Code.exe PID=23528
+2026-08-25 12:38:01,206 | INFO | Process detected: chrome.exe PID=23540
+2026-08-25 12:38:01,398 | WARNING | Unable to inspect service: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 12:38:25,808 | WARNING | High CPU usage detected: System Idle Process PID=0 CPU=818.5%
+2026-08-25 12:38:26,333 | INFO | Process detected: TrustedInstaller.exe PID=2832
+2026-08-25 12:38:27,513 | INFO | Process detected: chrome.exe PID=8144
+2026-08-25 12:38:28,193 | INFO | Process detected: chrome.exe PID=12680
+2026-08-25 12:38:29,749 | INFO | Process terminated: PID=21696
+2026-08-25 12:38:29,758 | INFO | Process terminated: PID=6372
+2026-08-25 12:38:29,773 | INFO | Process terminated: PID=21256
+2026-08-25 12:38:29,783 | INFO | Process terminated: PID=16680
+2026-08-25 12:38:29,788 | INFO | Process terminated: PID=9324
+2026-08-25 12:38:29,802 | INFO | Process terminated: PID=13524
+2026-08-25 12:38:30,028 | WARNING | Unable to inspect service: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 12:38:53,759 | INFO | Monitoring agent stopped by user.
+2026-08-25 12:40:26,807 | WARNING | High CPU usage detected: System Idle Process PID=0 CPU=831.1%
+2026-08-25 12:40:26,836 | INFO | Process detected: System Idle Process PID=0
+2026-08-25 12:40:26,907 | INFO | Process detected: System PID=4
+2026-08-25 12:40:26,972 | INFO | Process detected: Unknown PID=188
+2026-08-25 12:40:27,031 | INFO | Process detected: Registry PID=232
+2026-08-25 12:40:27,110 | INFO | Process detected: Code.exe PID=412
+2026-08-25 12:40:27,159 | INFO | Process detected: svchost.exe PID=816
+2026-08-25 12:40:27,221 | INFO | Process detected: smss.exe PID=832
+2026-08-25 12:40:27,296 | INFO | Process detected: pet.exe PID=960
+2026-08-25 12:40:27,340 | INFO | Process detected: csrss.exe PID=1240
+2026-08-25 12:40:27,378 | INFO | Process detected: wininit.exe PID=1348
+2026-08-25 12:40:27,423 | INFO | Process detected: services.exe PID=1424
+2026-08-25 12:40:27,453 | INFO | Process detected: LsaIso.exe PID=1444
+2026-08-25 12:40:27,475 | INFO | Process detected: lsass.exe PID=1452
+2026-08-25 12:40:27,497 | INFO | Process detected: svchost.exe PID=1580
+2026-08-25 12:40:27,531 | INFO | Process detected: fontdrvhost.exe PID=1612
+2026-08-25 12:40:27,555 | INFO | Process detected: WUDFHost.exe PID=1648
+2026-08-25 12:40:27,574 | INFO | Process detected: RtkAudUService64.exe PID=1684
+2026-08-25 12:40:27,604 | INFO | Process detected: svchost.exe PID=1724
+2026-08-25 12:40:27,621 | INFO | Process detected: svchost.exe PID=1764
+2026-08-25 12:40:27,647 | INFO | Process detected: WUDFHost.exe PID=1796
+2026-08-25 12:40:27,669 | INFO | Process detected: WUDFHost.exe PID=1852
+2026-08-25 12:40:27,686 | INFO | Process detected: WUDFHost.exe PID=1900
+2026-08-25 12:40:27,723 | INFO | Process detected: WUDFHost.exe PID=1952
+2026-08-25 12:40:27,758 | INFO | Process detected: svchost.exe PID=2084
+2026-08-25 12:40:27,785 | INFO | Process detected: dwm.exe PID=2148
+2026-08-25 12:40:27,804 | INFO | Process detected: NVDisplay.Container.exe PID=2208
+2026-08-25 12:40:27,849 | INFO | Process detected: svchost.exe PID=2268
+2026-08-25 12:40:27,879 | INFO | Process detected: svchost.exe PID=2276
+2026-08-25 12:40:27,902 | INFO | Process detected: svchost.exe PID=2356
+2026-08-25 12:40:27,921 | INFO | Process detected: IntelCpHDCPSvc.exe PID=2364
+2026-08-25 12:40:27,959 | INFO | Process detected: svchost.exe PID=2372
+2026-08-25 12:40:27,991 | INFO | Process detected: svchost.exe PID=2384
+2026-08-25 12:40:28,019 | INFO | Process detected: svchost.exe PID=2396
+2026-08-25 12:40:28,053 | INFO | Process detected: OpenConsole.exe PID=2416
+2026-08-25 12:40:28,080 | INFO | Process detected: svchost.exe PID=2536
+2026-08-25 12:40:28,108 | INFO | Process detected: svchost.exe PID=2588
+2026-08-25 12:40:28,123 | INFO | Process detected: svchost.exe PID=2696
+2026-08-25 12:40:28,161 | INFO | Process detected: winlogon.exe PID=2724
+2026-08-25 12:40:28,219 | INFO | Process detected: svchost.exe PID=2740
+2026-08-25 12:40:28,241 | INFO | Process detected: msedgewebview2.exe PID=2772
+2026-08-25 12:40:28,260 | INFO | Process detected: svchost.exe PID=2868
+2026-08-25 12:40:28,280 | INFO | Process detected: svchost.exe PID=2992
+2026-08-25 12:40:28,323 | INFO | Process detected: explorer.exe PID=3008
+2026-08-25 12:40:28,351 | INFO | Process detected: svchost.exe PID=3040
+2026-08-25 12:40:28,376 | INFO | Process detected: svchost.exe PID=3128
+2026-08-25 12:40:28,394 | INFO | Process detected: svchost.exe PID=3160
+2026-08-25 12:40:28,422 | INFO | Process detected: svchost.exe PID=3216
+2026-08-25 12:40:28,441 | INFO | Process detected: svchost.exe PID=3224
+2026-08-25 12:40:28,464 | INFO | Process detected: svchost.exe PID=3232
+2026-08-25 12:40:28,483 | INFO | Process detected: svchost.exe PID=3336
+2026-08-25 12:40:28,502 | INFO | Process detected: svchost.exe PID=3372
+2026-08-25 12:40:28,543 | INFO | Process detected: MemCompression PID=3388
+2026-08-25 12:40:28,562 | INFO | Process detected: svchost.exe PID=3448
+2026-08-25 12:40:28,589 | INFO | Process detected: svchost.exe PID=3504
+2026-08-25 12:40:28,609 | INFO | Process detected: svchost.exe PID=3512
+2026-08-25 12:40:28,624 | INFO | Process detected: svchost.exe PID=3568
+2026-08-25 12:40:28,639 | INFO | Process detected: svchost.exe PID=3656
+2026-08-25 12:40:28,654 | INFO | Process detected: svchost.exe PID=3676
+2026-08-25 12:40:28,687 | INFO | Process detected: svchost.exe PID=3700
+2026-08-25 12:40:28,702 | INFO | Process detected: MessagingPlugin.exe PID=3720
+2026-08-25 12:40:28,728 | INFO | Process detected: svchost.exe PID=3880
+2026-08-25 12:40:28,748 | INFO | Process detected: svchost.exe PID=3912
+2026-08-25 12:40:28,793 | INFO | Process detected: svchost.exe PID=3920
+2026-08-25 12:40:28,840 | INFO | Process detected: msedge.exe PID=4000
+2026-08-25 12:40:28,893 | INFO | Process detected: svchost.exe PID=4120
+2026-08-25 12:40:28,939 | INFO | Process detected: spoolsv.exe PID=4188
+2026-08-25 12:40:28,966 | INFO | Process detected: svchost.exe PID=4220
+2026-08-25 12:40:28,982 | INFO | Process detected: svchost.exe PID=4260
+2026-08-25 12:40:29,002 | INFO | Process detected: svchost.exe PID=4300
+2026-08-25 12:40:29,023 | INFO | Process detected: svchost.exe PID=4368
+2026-08-25 12:40:29,036 | INFO | Process detected: svchost.exe PID=4488
+2026-08-25 12:40:29,052 | INFO | Process detected: svchost.exe PID=4516
+2026-08-25 12:40:29,069 | INFO | Process detected: AISControlService.exe PID=4536
+2026-08-25 12:40:29,107 | INFO | Process detected: FnHotkeyCapsLKNumLK.exe PID=4548
+2026-08-25 12:40:29,126 | INFO | Process detected: svchost.exe PID=4552
+2026-08-25 12:40:29,141 | INFO | Process detected: svchost.exe PID=4560
+2026-08-25 12:40:29,169 | INFO | Process detected: Lenovo.Modern.ImController.exe PID=4640
+2026-08-25 12:40:29,202 | INFO | Process detected: AnyDesk.exe PID=4648
+2026-08-25 12:40:29,227 | INFO | Process detected: svchost.exe PID=4656
+2026-08-25 12:40:29,263 | INFO | Process detected: svchost.exe PID=4664
+2026-08-25 12:40:29,576 | INFO | Process detected: svchost.exe PID=4672
+2026-08-25 12:40:29,628 | INFO | Process detected: ipf_uf.exe PID=4700
+2026-08-25 12:40:29,660 | INFO | Process detected: XtuService.exe PID=4708
+2026-08-25 12:40:29,686 | INFO | Process detected: IntelAudioService.exe PID=4752
+2026-08-25 12:40:29,713 | INFO | Process detected: RtkBtManServ.exe PID=4760
+2026-08-25 12:40:29,736 | INFO | Process detected: NahimicService.exe PID=4768
+2026-08-25 12:40:29,763 | INFO | Process detected: LenovoUtilityService.exe PID=4784
+2026-08-25 12:40:29,790 | INFO | Process detected: nvcontainer.exe PID=4792
+2026-08-25 12:40:29,817 | INFO | Process detected: ipfsvc.exe PID=4800
+2026-08-25 12:40:29,842 | INFO | Process detected: LenovoVantageService.exe PID=4808
+2026-08-25 12:40:29,869 | INFO | Process detected: RtkAudUService64.exe PID=4880
+2026-08-25 12:40:29,896 | INFO | Process detected: jhi_service.exe PID=4900
+2026-08-25 12:40:29,959 | INFO | Process detected: WMIRegistrationService.exe PID=4912
+2026-08-25 12:40:29,986 | INFO | Process detected: turbo_vpn-service.exe PID=4920
+2026-08-25 12:40:30,012 | WARNING | High CPU usage detected: MsMpEng.exe PID=4940 CPU=100.8%
+2026-08-25 12:40:30,018 | INFO | Process detected: MsMpEng.exe PID=4940
+2026-08-25 12:40:30,044 | INFO | Process detected: Code.exe PID=4948
+2026-08-25 12:40:30,084 | INFO | Process detected: msedgewebview2.exe PID=5076
+2026-08-25 12:40:30,111 | INFO | Process detected: RtkAudUService64.exe PID=5092
+2026-08-25 12:40:30,139 | INFO | Process detected: MpDefenderCoreService.exe PID=5112
+2026-08-25 12:40:30,168 | INFO | Process detected: mongod.exe PID=5188
+2026-08-25 12:40:30,201 | INFO | Process detected: LenovoVantage-(VantageCoreAddin).exe PID=5200
+2026-08-25 12:40:30,220 | INFO | Process detected: svchost.exe PID=5464
+2026-08-25 12:40:30,245 | INFO | Process detected: msedgewebview2.exe PID=5548
+2026-08-25 12:40:30,270 | INFO | Process detected: unsecapp.exe PID=5688
+2026-08-25 12:40:30,298 | INFO | Process detected: svchost.exe PID=5692
+2026-08-25 12:40:30,324 | INFO | Process detected: svchost.exe PID=5700
+2026-08-25 12:40:30,356 | INFO | Process detected: NVIDIA Share.exe PID=5752
+2026-08-25 12:40:30,394 | INFO | Process detected: msedgewebview2.exe PID=5824
+2026-08-25 12:40:30,421 | INFO | Process detected: svchost.exe PID=5948
+2026-08-25 12:40:30,450 | INFO | Process detected: svchost.exe PID=5956
+2026-08-25 12:40:30,481 | INFO | Process detected: Code.exe PID=6056
+2026-08-25 12:40:30,507 | INFO | Process detected: Code.exe PID=6220
+2026-08-25 12:40:30,531 | INFO | Process detected: svchost.exe PID=6292
+2026-08-25 12:40:30,555 | INFO | Process detected: AppProvisioningPlugin.exe PID=6392
+2026-08-25 12:40:30,582 | INFO | Process detected: Widgets.exe PID=6404
+2026-08-25 12:40:30,607 | INFO | Process detected: mscopilot.exe PID=6412
+2026-08-25 12:40:30,632 | INFO | Process detected: Code.exe PID=6656
+2026-08-25 12:40:30,658 | INFO | Process detected: Code.exe PID=6684
+2026-08-25 12:40:30,684 | INFO | Process detected: mscopilot.exe PID=6804
+2026-08-25 12:40:30,710 | INFO | Process detected: UDClientService.exe PID=6820
+2026-08-25 12:40:30,736 | INFO | Process detected: msedgewebview2.exe PID=6852
+2026-08-25 12:40:30,761 | INFO | Process detected: AnyDesk.exe PID=6864
+2026-08-25 12:40:30,789 | INFO | Process detected: NahimicSvc64.exe PID=6920
+2026-08-25 12:40:30,817 | INFO | Process detected: Code.exe PID=7128
+2026-08-25 12:40:30,842 | INFO | Process detected: NVDisplay.Container.exe PID=7272
+2026-08-25 12:40:30,861 | INFO | Process detected: msedgewebview2.exe PID=7324
+2026-08-25 12:40:30,884 | INFO | Process detected: svchost.exe PID=7488
+2026-08-25 12:40:30,911 | INFO | Process detected: NahimicAPO4Volume.exe PID=7520
+2026-08-25 12:40:30,941 | INFO | Process detected: mscopilot.exe PID=7544
+2026-08-25 12:40:30,972 | INFO | Process detected: unsecapp.exe PID=7704
+2026-08-25 12:40:31,026 | INFO | Process detected: Code.exe PID=7900
+2026-08-25 12:40:31,057 | INFO | Process detected: RuntimeBroker.exe PID=8024
+2026-08-25 12:40:31,088 | INFO | Process detected: WmiPrvSE.exe PID=8124
+2026-08-25 12:40:31,126 | INFO | Process detected: chrome.exe PID=8144
+2026-08-25 12:40:31,163 | INFO | Process detected: csrss.exe PID=8284
+2026-08-25 12:40:31,222 | INFO | Process detected: conhost.exe PID=8356
+2026-08-25 12:40:31,256 | INFO | Process detected: ShellExperienceHost.exe PID=8368
+2026-08-25 12:40:31,277 | INFO | Process detected: python.exe PID=8496
+2026-08-25 12:40:31,303 | INFO | Process detected: SearchFilterHost.exe PID=8520
+2026-08-25 12:40:31,339 | INFO | Process detected: svchost.exe PID=8708
+2026-08-25 12:40:31,371 | INFO | Process detected: FnHotkeyUtility.exe PID=8860
+2026-08-25 12:40:31,422 | INFO | Process detected: svchost.exe PID=8908
+2026-08-25 12:40:31,464 | INFO | Process detected: svchost.exe PID=8912
+2026-08-25 12:40:31,502 | INFO | Process detected: AggregatorHost.exe PID=8936
+2026-08-25 12:40:31,561 | INFO | Process detected: IntelGraphicsSoftware.Service.exe PID=8948
+2026-08-25 12:40:31,598 | INFO | Process detected: PresentMonService.exe PID=9312
+2026-08-25 12:40:31,631 | INFO | Process detected: conhost.exe PID=9320
+2026-08-25 12:40:31,661 | INFO | Process detected: msedgewebview2.exe PID=9356
+2026-08-25 12:40:31,695 | INFO | Process detected: WmiApSrv.exe PID=9464
+2026-08-25 12:40:31,730 | INFO | Process detected: svchost.exe PID=9644
+2026-08-25 12:40:31,766 | INFO | Process detected: Code.exe PID=9652
+2026-08-25 12:40:31,800 | INFO | Process detected: StartMenuExperienceHost.exe PID=9940
+2026-08-25 12:40:31,855 | INFO | Process detected: chrome.exe PID=9984
+2026-08-25 12:40:31,884 | INFO | Process detected: SearchIndexer.exe PID=10180
+2026-08-25 12:40:31,914 | INFO | Process detected: svchost.exe PID=10340
+2026-08-25 12:40:31,955 | INFO | Process detected: WidgetService.exe PID=10472
+2026-08-25 12:40:31,997 | INFO | Process detected: svchost.exe PID=10560
+2026-08-25 12:40:32,036 | INFO | Process detected: Code.exe PID=10608
+2026-08-25 12:40:32,068 | INFO | Process detected: svchost.exe PID=10756
+2026-08-25 12:40:32,104 | INFO | Process detected: msedgewebview2.exe PID=10864
+2026-08-25 12:40:32,149 | INFO | Process detected: msedgewebview2.exe PID=10944
+2026-08-25 12:40:32,172 | INFO | Process detected: svchost.exe PID=11128
+2026-08-25 12:40:32,216 | INFO | Process detected: RuntimeBroker.exe PID=11160
+2026-08-25 12:40:32,238 | INFO | Process detected: msedgewebview2.exe PID=11228
+2026-08-25 12:40:32,260 | INFO | Process detected: NisSrv.exe PID=11304
+2026-08-25 12:40:32,285 | INFO | Process detected: svchost.exe PID=11324
+2026-08-25 12:40:32,308 | INFO | Process detected: msedgewebview2.exe PID=11476
+2026-08-25 12:40:32,334 | INFO | Process detected: nvsphelper64.exe PID=11604
+2026-08-25 12:40:32,357 | INFO | Process detected: conhost.exe PID=11724
+2026-08-25 12:40:32,386 | INFO | Process detected: msedgewebview2.exe PID=11812
+2026-08-25 12:40:32,406 | INFO | Process detected: powershell.exe PID=12136
+2026-08-25 12:40:32,429 | INFO | Process detected: svchost.exe PID=12184
+2026-08-25 12:40:32,445 | INFO | Process detected: RuntimeBroker.exe PID=12220
+2026-08-25 12:40:32,461 | INFO | Process detected: conhost.exe PID=12292
+2026-08-25 12:40:32,481 | INFO | Process detected: msedgewebview2.exe PID=12348
+2026-08-25 12:40:32,507 | INFO | Process detected: svchost.exe PID=12404
+2026-08-25 12:40:32,522 | INFO | Process detected: UnzipWatcher.exe PID=12576
+2026-08-25 12:40:32,537 | INFO | Process detected: SecurityHealthService.exe PID=12604
+2026-08-25 12:40:32,553 | INFO | Process detected: msedgewebview2.exe PID=12620
+2026-08-25 12:40:32,575 | INFO | Process detected: mscopilot.exe PID=12940
+2026-08-25 12:40:32,601 | INFO | Process detected: svchost.exe PID=13100
+2026-08-25 12:40:32,632 | INFO | Process detected: SearchFilterHost.exe PID=13176
+2026-08-25 12:40:32,661 | INFO | Process detected: WmiPrvSE.exe PID=13192
+2026-08-25 12:40:32,690 | INFO | Process detected: conhost.exe PID=13488
+2026-08-25 12:40:32,720 | INFO | Process detected: Code.exe PID=13748
+2026-08-25 12:40:32,750 | INFO | Process detected: msedgewebview2.exe PID=13932
+2026-08-25 12:40:32,784 | INFO | Process detected: LockApp.exe PID=13960
+2026-08-25 12:40:32,820 | INFO | Process detected: msedgewebview2.exe PID=14056
+2026-08-25 12:40:32,841 | INFO | Process detected: SearchFilterHost.exe PID=14332
+2026-08-25 12:40:32,859 | INFO | Process detected: msedgewebview2.exe PID=14344
+2026-08-25 12:40:32,890 | INFO | Process detected: msedgewebview2.exe PID=14428
+2026-08-25 12:40:32,948 | INFO | Process detected: chrome.exe PID=14452
+2026-08-25 12:40:32,989 | INFO | Process detected: RuntimeBroker.exe PID=14492
+2026-08-25 12:40:33,032 | INFO | Process detected: chrome.exe PID=14496
+2026-08-25 12:40:33,098 | INFO | Process detected: svchost.exe PID=14520
+2026-08-25 12:40:33,138 | INFO | Process detected: svchost.exe PID=14528
+2026-08-25 12:40:33,178 | INFO | Process detected: RuntimeBroker.exe PID=14616
+2026-08-25 12:40:33,215 | INFO | Process detected: RuntimeBroker.exe PID=14652
+2026-08-25 12:40:33,244 | INFO | Process detected: SearchHost.exe PID=14656
+2026-08-25 12:40:33,267 | INFO | Process detected: CrossDeviceResume.exe PID=14688
+2026-08-25 12:40:33,287 | INFO | Process detected: Code.exe PID=14792
+2026-08-25 12:40:33,328 | INFO | Process detected: smartscreen.exe PID=14796
+2026-08-25 12:40:33,363 | INFO | Process detected: msedge.exe PID=14888
+2026-08-25 12:40:33,381 | INFO | Process detected: ms-teams.exe PID=15028
+2026-08-25 12:40:33,408 | INFO | Process detected: msedgewebview2.exe PID=15148
+2026-08-25 12:40:33,429 | INFO | Process detected: RuntimeBroker.exe PID=15248
+2026-08-25 12:40:33,465 | INFO | Process detected: CrossDeviceService.exe PID=15392
+2026-08-25 12:40:33,482 | INFO | Process detected: ctfmon.exe PID=15412
+2026-08-25 12:40:33,513 | INFO | Process detected: RuntimeBroker.exe PID=15468
+2026-08-25 12:40:33,537 | INFO | Process detected: svchost.exe PID=15512
+2026-08-25 12:40:33,572 | INFO | Process detected: powershell.exe PID=15788
+2026-08-25 12:40:33,609 | INFO | Process detected: unsecapp.exe PID=15824
+2026-08-25 12:40:33,632 | INFO | Process detected: nahimicNotifSys.exe PID=15836
+2026-08-25 12:40:33,647 | INFO | Process detected: msedgewebview2.exe PID=16020
+2026-08-25 12:40:33,683 | INFO | Process detected: OneDrive.exe PID=16052
+2026-08-25 12:40:33,697 | INFO | Process detected: ShellHost.exe PID=16112
+2026-08-25 12:40:33,725 | INFO | Process detected: msedgewebview2.exe PID=16152
+2026-08-25 12:40:33,753 | INFO | Process detected: PhoneExperienceHost.exe PID=16188
+2026-08-25 12:40:33,774 | INFO | Process detected: mscopilot.exe PID=16452
+2026-08-25 12:40:33,805 | INFO | Process detected: python.exe PID=16620
+2026-08-25 12:40:33,828 | INFO | Process detected: svchost.exe PID=16720
+2026-08-25 12:40:33,847 | INFO | Process detected: LenovoVantage-(LenovoGamingSystemAddin).exe PID=16772
+2026-08-25 12:40:33,862 | INFO | Process detected: codex.exe PID=17020
+2026-08-25 12:40:33,881 | INFO | Process detected: LenovoVantage-(GenericMessagingAddin).exe PID=17248
+2026-08-25 12:40:33,908 | INFO | Process detected: chrome.exe PID=17256
+2026-08-25 12:40:33,957 | INFO | Process detected: fontdrvhost.exe PID=17276
+2026-08-25 12:40:33,976 | INFO | Process detected: msedge.exe PID=17336
+2026-08-25 12:40:34,005 | INFO | Process detected: OpenConsole.exe PID=17524
+2026-08-25 12:40:34,029 | INFO | Process detected: RuntimeBroker.exe PID=17644
+2026-08-25 12:40:34,056 | INFO | Process detected: Code.exe PID=17728
+2026-08-25 12:40:34,075 | INFO | Process detected: svchost.exe PID=17836
+2026-08-25 12:40:34,092 | INFO | Process detected: svchost.exe PID=17908
+2026-08-25 12:40:34,106 | INFO | Process detected: taskhostw.exe PID=18032
+2026-08-25 12:40:34,122 | INFO | Process detected: msedgewebview2.exe PID=18156
+2026-08-25 12:40:34,165 | INFO | Process detected: svchost.exe PID=18188
+2026-08-25 12:40:34,198 | INFO | Process detected: WhatsApp.Root.exe PID=18200
+2026-08-25 12:40:34,227 | INFO | Process detected: msedgewebview2.exe PID=18220
+2026-08-25 12:40:34,248 | INFO | Process detected: Code.exe PID=18412
+2026-08-25 12:40:34,275 | INFO | Process detected: SEGameTool.exe PID=18480
+2026-08-25 12:40:34,299 | INFO | Process detected: svchost.exe PID=18648
+2026-08-25 12:40:34,318 | INFO | Process detected: svchost.exe PID=18836
+2026-08-25 12:40:34,342 | INFO | Process detected: SearchFilterHost.exe PID=18928
+2026-08-25 12:40:34,357 | INFO | Process detected: sihost.exe PID=19000
+2026-08-25 12:40:34,385 | INFO | Process detected: svchost.exe PID=19184
+2026-08-25 12:40:34,407 | INFO | Process detected: svchost.exe PID=19200
+2026-08-25 12:40:34,447 | INFO | Process detected: svchost.exe PID=19224
+2026-08-25 12:40:34,470 | INFO | Process detected: NVIDIA Share.exe PID=19324
+2026-08-25 12:40:34,497 | INFO | Process detected: msedgewebview2.exe PID=19372
+2026-08-25 12:40:34,517 | INFO | Process detected: Code.exe PID=19484
+2026-08-25 12:40:34,536 | INFO | Process detected: backgroundTaskHost.exe PID=19528
+2026-08-25 12:40:34,560 | INFO | Process detected: ms-teams.exe PID=19532
+2026-08-25 12:40:34,582 | INFO | Process detected: QSHelper.exe PID=19628
+2026-08-25 12:40:34,598 | INFO | Process detected: Code.exe PID=19684
+2026-08-25 12:40:34,632 | INFO | Process detected: ipf_helper.exe PID=19764
+2026-08-25 12:40:34,666 | INFO | Process detected: NVIDIA Web Helper.exe PID=19808
+2026-08-25 12:40:34,691 | INFO | Process detected: nvcontainer.exe PID=19924
+2026-08-25 12:40:34,707 | INFO | Process detected: msedge.exe PID=20032
+2026-08-25 12:40:34,737 | INFO | Process detected: svchost.exe PID=20304
+2026-08-25 12:40:34,755 | INFO | Process detected: svchost.exe PID=20472
+2026-08-25 12:40:34,770 | INFO | Process detected: svchost.exe PID=20740
+2026-08-25 12:40:34,788 | INFO | Process detected: msedge.exe PID=20880
+2026-08-25 12:40:34,805 | INFO | Process detected: SearchProtocolHost.exe PID=21056
+2026-08-25 12:40:34,830 | INFO | Process detected: chrome.exe PID=21084
+2026-08-25 12:40:34,847 | INFO | Process detected: chrome.exe PID=21240
+2026-08-25 12:40:34,869 | INFO | Process detected: Code.exe PID=21360
+2026-08-25 12:40:34,888 | INFO | Process detected: msedgewebview2.exe PID=21380
+2026-08-25 12:40:34,901 | INFO | Process detected: Locator.exe PID=21388
+2026-08-25 12:40:34,924 | INFO | Process detected: msedgewebview2.exe PID=21464
+2026-08-25 12:40:34,941 | INFO | Process detected: Nahimic3.exe PID=21496
+2026-08-25 12:40:34,957 | INFO | Process detected: svchost.exe PID=21528
+2026-08-25 12:40:34,973 | INFO | Process detected: UserOOBEBroker.exe PID=21624
+2026-08-25 12:40:34,988 | INFO | Process detected: svchost.exe PID=21656
+2026-08-25 12:40:35,011 | INFO | Process detected: ApplicationFrameHost.exe PID=21936
+2026-08-25 12:40:35,066 | INFO | Process detected: svchost.exe PID=21968
+2026-08-25 12:40:35,092 | INFO | Process detected: SecurityHealthSystray.exe PID=22216
+2026-08-25 12:40:35,110 | INFO | Process detected: svchost.exe PID=22292
+2026-08-25 12:40:35,144 | INFO | Process detected: svchost.exe PID=22348
+2026-08-25 12:40:35,166 | INFO | Process detected: svchost.exe PID=22356
+2026-08-25 12:40:35,182 | INFO | Process detected: svchost.exe PID=22364
+2026-08-25 12:40:35,198 | INFO | Process detected: NVIDIA Share.exe PID=22480
+2026-08-25 12:40:35,222 | INFO | Process detected: chrome.exe PID=22496
+2026-08-25 12:40:35,238 | INFO | Process detected: svchost.exe PID=22500
+2026-08-25 12:40:35,253 | INFO | Process detected: chrome.exe PID=22552
+2026-08-25 12:40:35,272 | INFO | Process detected: conhost.exe PID=22664
+2026-08-25 12:40:35,290 | INFO | Process detected: nvcontainer.exe PID=23020
+2026-08-25 12:40:35,305 | INFO | Process detected: Code.exe PID=23104
+2026-08-25 12:40:35,323 | INFO | Process detected: svchost.exe PID=23196
+2026-08-25 12:40:35,361 | INFO | Process detected: svchost.exe PID=23228
+2026-08-25 12:40:35,397 | INFO | Process detected: SystemSettings.exe PID=23272
+2026-08-25 12:40:35,448 | INFO | Process detected: NahimicSvc32.exe PID=23388
+2026-08-25 12:40:35,486 | INFO | Process detected: MoUsoCoreWorker.exe PID=23416
+2026-08-25 12:40:35,514 | INFO | Process detected: SearchFilterHost.exe PID=23464
+2026-08-25 12:40:35,550 | INFO | Process detected: Code.exe PID=23528
+2026-08-25 12:40:35,579 | INFO | Process detected: chrome.exe PID=23540
+2026-08-25 12:40:35,859 | WARNING | Unable to inspect service: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 12:41:00,994 | WARNING | High CPU usage detected: System Idle Process PID=0 CPU=957.7%
+2026-08-25 12:41:01,018 | WARNING | High CPU usage detected: System PID=4 CPU=124.0%
+2026-08-25 12:41:02,517 | INFO | Process detected: chrome.exe PID=8056
+2026-08-25 12:41:03,472 | INFO | Process detected: chrome.exe PID=17840
+2026-08-25 12:41:04,061 | INFO | Process terminated: PID=23416
+2026-08-25 12:41:04,305 | WARNING | Unable to inspect service: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 12:41:29,127 | WARNING | High CPU usage detected: System Idle Process PID=0 CPU=1364.1%
+2026-08-25 12:41:33,232 | INFO | Process terminated: PID=21528
+2026-08-25 12:41:33,574 | WARNING | Unable to inspect service: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 12:41:58,453 | WARNING | High CPU usage detected: System Idle Process PID=0 CPU=1159.3%
+2026-08-25 12:42:03,229 | INFO | Process terminated: PID=13192
+2026-08-25 12:42:03,248 | INFO | Process terminated: PID=17840
+2026-08-25 12:42:03,471 | WARNING | Unable to inspect service: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 12:42:28,957 | WARNING | High CPU usage detected: System Idle Process PID=0 CPU=801.3%
+2026-08-25 12:42:32,673 | INFO | Process detected: chrome.exe PID=19204
+2026-08-25 12:42:33,053 | INFO | Process detected: chrome.exe PID=22636
+2026-08-25 12:42:33,321 | WARNING | Unable to inspect service: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 12:42:50,962 | INFO | Monitoring agent stopped by user.
+2026-08-25 12:54:59,267 | WARNING | High CPU usage detected: System Idle Process PID=0 CPU=856.9%
+2026-08-25 12:54:59,287 | INFO | Process detected: System Idle Process PID=0
+2026-08-25 12:54:59,319 | INFO | Process detected: System PID=4
+2026-08-25 12:54:59,348 | INFO | Process detected: Unknown PID=188
+2026-08-25 12:54:59,372 | INFO | Process detected: Registry PID=232
+2026-08-25 12:54:59,399 | INFO | Process detected: Code.exe PID=412
+2026-08-25 12:54:59,424 | INFO | Process detected: conhost.exe PID=740
+2026-08-25 12:54:59,451 | INFO | Process detected: svchost.exe PID=816
+2026-08-25 12:54:59,477 | INFO | Process detected: smss.exe PID=832
+2026-08-25 12:54:59,502 | INFO | Process detected: pet.exe PID=960
+2026-08-25 12:54:59,530 | INFO | Process detected: csrss.exe PID=1240
+2026-08-25 12:54:59,557 | INFO | Process detected: wininit.exe PID=1348
+2026-08-25 12:54:59,597 | INFO | Process detected: services.exe PID=1424
+2026-08-25 12:54:59,626 | INFO | Process detected: LsaIso.exe PID=1444
+2026-08-25 12:54:59,658 | INFO | Process detected: lsass.exe PID=1452
+2026-08-25 12:54:59,699 | INFO | Process detected: svchost.exe PID=1580
+2026-08-25 12:54:59,726 | INFO | Process detected: fontdrvhost.exe PID=1612
+2026-08-25 12:54:59,752 | INFO | Process detected: WUDFHost.exe PID=1648
+2026-08-25 12:54:59,771 | INFO | Process detected: RtkAudUService64.exe PID=1684
+2026-08-25 12:54:59,795 | INFO | Process detected: svchost.exe PID=1724
+2026-08-25 12:54:59,822 | INFO | Process detected: svchost.exe PID=1764
+2026-08-25 12:54:59,849 | INFO | Process detected: WUDFHost.exe PID=1796
+2026-08-25 12:54:59,876 | INFO | Process detected: WUDFHost.exe PID=1852
+2026-08-25 12:54:59,902 | INFO | Process detected: WUDFHost.exe PID=1900
+2026-08-25 12:54:59,921 | INFO | Process detected: WUDFHost.exe PID=1952
+2026-08-25 12:54:59,944 | INFO | Process detected: svchost.exe PID=2084
+2026-08-25 12:54:59,963 | INFO | Process detected: dwm.exe PID=2148
+2026-08-25 12:54:59,978 | INFO | Process detected: NVDisplay.Container.exe PID=2208
+2026-08-25 12:55:00,001 | INFO | Process detected: svchost.exe PID=2268
+2026-08-25 12:55:00,034 | INFO | Process detected: svchost.exe PID=2276
+2026-08-25 12:55:00,066 | INFO | Process detected: svchost.exe PID=2356
+2026-08-25 12:55:00,095 | INFO | Process detected: IntelCpHDCPSvc.exe PID=2364
+2026-08-25 12:55:00,121 | INFO | Process detected: svchost.exe PID=2372
+2026-08-25 12:55:00,157 | INFO | Process detected: svchost.exe PID=2384
+2026-08-25 12:55:00,180 | INFO | Process detected: svchost.exe PID=2396
+2026-08-25 12:55:00,206 | INFO | Process detected: OpenConsole.exe PID=2416
+2026-08-25 12:55:00,233 | INFO | Process detected: svchost.exe PID=2536
+2026-08-25 12:55:00,260 | INFO | Process detected: svchost.exe PID=2588
+2026-08-25 12:55:00,286 | INFO | Process detected: svchost.exe PID=2696
+2026-08-25 12:55:00,321 | INFO | Process detected: winlogon.exe PID=2724
+2026-08-25 12:55:00,361 | INFO | Process detected: svchost.exe PID=2740
+2026-08-25 12:55:00,389 | INFO | Process detected: msedgewebview2.exe PID=2772
+2026-08-25 12:55:00,414 | INFO | Process detected: svchost.exe PID=2868
+2026-08-25 12:55:00,443 | INFO | Process detected: svchost.exe PID=2992
+2026-08-25 12:55:00,473 | INFO | Process detected: explorer.exe PID=3008
+2026-08-25 12:55:00,500 | INFO | Process detected: svchost.exe PID=3040
+2026-08-25 12:55:00,526 | INFO | Process detected: svchost.exe PID=3128
+2026-08-25 12:55:00,544 | INFO | Process detected: svchost.exe PID=3160
+2026-08-25 12:55:00,565 | INFO | Process detected: svchost.exe PID=3216
+2026-08-25 12:55:00,592 | INFO | Process detected: svchost.exe PID=3224
+2026-08-25 12:55:00,619 | INFO | Process detected: svchost.exe PID=3232
+2026-08-25 12:55:00,645 | INFO | Process detected: powershell.exe PID=3260
+2026-08-25 12:55:00,671 | INFO | Process detected: svchost.exe PID=3336
+2026-08-25 12:55:00,699 | INFO | Process detected: svchost.exe PID=3372
+2026-08-25 12:55:00,724 | INFO | Process detected: MemCompression PID=3388
+2026-08-25 12:55:00,752 | INFO | Process detected: svchost.exe PID=3448
+2026-08-25 12:55:00,777 | INFO | Process detected: svchost.exe PID=3504
+2026-08-25 12:55:00,796 | INFO | Process detected: svchost.exe PID=3512
+2026-08-25 12:55:00,818 | INFO | Process detected: svchost.exe PID=3568
+2026-08-25 12:55:00,845 | INFO | Process detected: svchost.exe PID=3656
+2026-08-25 12:55:00,872 | INFO | Process detected: svchost.exe PID=3676
+2026-08-25 12:55:00,889 | INFO | Process detected: svchost.exe PID=3700
+2026-08-25 12:55:00,913 | INFO | Process detected: MessagingPlugin.exe PID=3720
+2026-08-25 12:55:00,940 | INFO | Process detected: chrome.exe PID=3808
+2026-08-25 12:55:00,967 | INFO | Process detected: svchost.exe PID=3880
+2026-08-25 12:55:00,994 | INFO | Process detected: svchost.exe PID=3912
+2026-08-25 12:55:01,026 | INFO | Process detected: svchost.exe PID=3920
+2026-08-25 12:55:01,055 | INFO | Process detected: msedge.exe PID=4000
+2026-08-25 12:55:01,081 | INFO | Process detected: svchost.exe PID=4120
+2026-08-25 12:55:01,109 | INFO | Process detected: spoolsv.exe PID=4188
+2026-08-25 12:55:01,134 | INFO | Process detected: svchost.exe PID=4220
+2026-08-25 12:55:01,158 | INFO | Process detected: svchost.exe PID=4260
+2026-08-25 12:55:01,183 | INFO | Process detected: svchost.exe PID=4300
+2026-08-25 12:55:01,209 | INFO | Process detected: svchost.exe PID=4368
+2026-08-25 12:55:01,229 | INFO | Process detected: svchost.exe PID=4488
+2026-08-25 12:55:01,251 | INFO | Process detected: svchost.exe PID=4516
+2026-08-25 12:55:01,311 | INFO | Process detected: AISControlService.exe PID=4536
+2026-08-25 12:55:01,341 | INFO | Process detected: FnHotkeyCapsLKNumLK.exe PID=4548
+2026-08-25 12:55:01,367 | INFO | Process detected: svchost.exe PID=4552
+2026-08-25 12:55:01,394 | INFO | Process detected: svchost.exe PID=4560
+2026-08-25 12:55:01,414 | INFO | Process detected: Lenovo.Modern.ImController.exe PID=4640
+2026-08-25 12:55:01,448 | INFO | Process detected: AnyDesk.exe PID=4648
+2026-08-25 12:55:01,476 | INFO | Process detected: svchost.exe PID=4656
+2026-08-25 12:55:01,502 | INFO | Process detected: svchost.exe PID=4664
+2026-08-25 12:55:01,540 | INFO | Process detected: svchost.exe PID=4672
+2026-08-25 12:55:01,556 | INFO | Process detected: ipf_uf.exe PID=4700
+2026-08-25 12:55:01,586 | INFO | Process detected: XtuService.exe PID=4708
+2026-08-25 12:55:01,614 | INFO | Process detected: IntelAudioService.exe PID=4752
+2026-08-25 12:55:01,637 | INFO | Process detected: RtkBtManServ.exe PID=4760
+2026-08-25 12:55:01,652 | INFO | Process detected: NahimicService.exe PID=4768
+2026-08-25 12:55:01,676 | INFO | Process detected: LenovoUtilityService.exe PID=4784
+2026-08-25 12:55:01,696 | INFO | Process detected: nvcontainer.exe PID=4792
+2026-08-25 12:55:01,715 | INFO | Process detected: ipfsvc.exe PID=4800
+2026-08-25 12:55:01,732 | INFO | Process detected: LenovoVantageService.exe PID=4808
+2026-08-25 12:55:01,755 | INFO | Process detected: dllhost.exe PID=4844
+2026-08-25 12:55:01,783 | INFO | Process detected: RtkAudUService64.exe PID=4880
+2026-08-25 12:55:01,801 | INFO | Process detected: jhi_service.exe PID=4900
+2026-08-25 12:55:01,815 | INFO | Process detected: WMIRegistrationService.exe PID=4912
+2026-08-25 12:55:01,831 | INFO | Process detected: turbo_vpn-service.exe PID=4920
+2026-08-25 12:55:01,845 | INFO | Process detected: MsMpEng.exe PID=4940
+2026-08-25 12:55:01,860 | INFO | Process detected: Code.exe PID=4948
+2026-08-25 12:55:01,888 | INFO | Process detected: msedgewebview2.exe PID=5076
+2026-08-25 12:55:01,906 | INFO | Process detected: RtkAudUService64.exe PID=5092
+2026-08-25 12:55:01,930 | INFO | Process detected: MpDefenderCoreService.exe PID=5112
+2026-08-25 12:55:01,946 | INFO | Process detected: mongod.exe PID=5188
+2026-08-25 12:55:01,974 | INFO | Process detected: LenovoVantage-(VantageCoreAddin).exe PID=5200
+2026-08-25 12:55:01,993 | INFO | Process detected: svchost.exe PID=5464
+2026-08-25 12:55:02,017 | INFO | Process detected: msedgewebview2.exe PID=5548
+2026-08-25 12:55:02,036 | INFO | Process detected: unsecapp.exe PID=5688
+2026-08-25 12:55:02,051 | INFO | Process detected: svchost.exe PID=5692
+2026-08-25 12:55:02,086 | INFO | Process detected: svchost.exe PID=5700
+2026-08-25 12:55:02,102 | INFO | Process detected: NVIDIA Share.exe PID=5752
+2026-08-25 12:55:02,118 | INFO | Process detected: msedgewebview2.exe PID=5824
+2026-08-25 12:55:02,135 | INFO | Process detected: svchost.exe PID=5948
+2026-08-25 12:55:02,169 | INFO | Process detected: svchost.exe PID=5956
+2026-08-25 12:55:02,197 | INFO | Process detected: Code.exe PID=6056
+2026-08-25 12:55:02,224 | INFO | Process detected: Code.exe PID=6220
+2026-08-25 12:55:02,243 | INFO | Process detected: svchost.exe PID=6292
+2026-08-25 12:55:02,260 | INFO | Process detected: AppProvisioningPlugin.exe PID=6392
+2026-08-25 12:55:02,301 | INFO | Process detected: Widgets.exe PID=6404
+2026-08-25 12:55:02,329 | INFO | Process detected: mscopilot.exe PID=6412
+2026-08-25 12:55:02,358 | INFO | Process detected: Code.exe PID=6656
+2026-08-25 12:55:02,401 | INFO | Process detected: Code.exe PID=6684
+2026-08-25 12:55:02,429 | INFO | Process detected: mscopilot.exe PID=6804
+2026-08-25 12:55:02,458 | INFO | Process detected: UDClientService.exe PID=6820
+2026-08-25 12:55:02,477 | INFO | Process detected: msedgewebview2.exe PID=6852
+2026-08-25 12:55:02,500 | INFO | Process detected: AnyDesk.exe PID=6864
+2026-08-25 12:55:02,528 | INFO | Process detected: NahimicSvc64.exe PID=6920
+2026-08-25 12:55:02,538 | INFO | Process detected: Code.exe PID=7128
+2026-08-25 12:55:02,561 | INFO | Process detected: NVDisplay.Container.exe PID=7272
+2026-08-25 12:55:02,575 | INFO | Process detected: msedgewebview2.exe PID=7324
+2026-08-25 12:55:02,596 | INFO | Process detected: svchost.exe PID=7488
+2026-08-25 12:55:02,625 | INFO | Process detected: NahimicAPO4Volume.exe PID=7520
+2026-08-25 12:55:02,654 | INFO | Process detected: mscopilot.exe PID=7544
+2026-08-25 12:55:02,695 | INFO | Process detected: unsecapp.exe PID=7704
+2026-08-25 12:55:02,727 | WARNING | High CPU usage detected: Code.exe PID=7900 CPU=199.5%
+2026-08-25 12:55:02,734 | INFO | Process detected: Code.exe PID=7900
+2026-08-25 12:55:02,776 | INFO | Process detected: RuntimeBroker.exe PID=8024
+2026-08-25 12:55:02,792 | INFO | Process detected: dllhost.exe PID=8044
+2026-08-25 12:55:02,820 | INFO | Process detected: chrome.exe PID=8056
+2026-08-25 12:55:02,847 | INFO | Process detected: WmiPrvSE.exe PID=8124
+2026-08-25 12:55:02,874 | INFO | Process detected: csrss.exe PID=8284
+2026-08-25 12:55:02,903 | INFO | Process detected: conhost.exe PID=8356
+2026-08-25 12:55:02,922 | INFO | Process detected: ShellExperienceHost.exe PID=8368
+2026-08-25 12:55:02,939 | INFO | Process detected: svchost.exe PID=8708
+2026-08-25 12:55:02,957 | INFO | Process detected: FnHotkeyUtility.exe PID=8860
+2026-08-25 12:55:02,980 | INFO | Process detected: svchost.exe PID=8908
+2026-08-25 12:55:02,994 | INFO | Process detected: svchost.exe PID=8912
+2026-08-25 12:55:03,010 | INFO | Process detected: AggregatorHost.exe PID=8936
+2026-08-25 12:55:03,038 | INFO | Process detected: IntelGraphicsSoftware.Service.exe PID=8948
+2026-08-25 12:55:03,065 | INFO | Process detected: PresentMonService.exe PID=9312
+2026-08-25 12:55:03,100 | INFO | Process detected: conhost.exe PID=9320
+2026-08-25 12:55:03,124 | INFO | Process detected: msedgewebview2.exe PID=9356
+2026-08-25 12:55:03,145 | INFO | Process detected: WmiApSrv.exe PID=9464
+2026-08-25 12:55:03,161 | INFO | Process detected: svchost.exe PID=9644
+2026-08-25 12:55:03,176 | INFO | Process detected: Code.exe PID=9652
+2026-08-25 12:55:03,197 | INFO | Process detected: StartMenuExperienceHost.exe PID=9940
+2026-08-25 12:55:03,213 | INFO | Process detected: chrome.exe PID=9984
+2026-08-25 12:55:03,228 | INFO | Process detected: SearchIndexer.exe PID=10180
+2026-08-25 12:55:03,246 | INFO | Process detected: svchost.exe PID=10340
+2026-08-25 12:55:03,271 | INFO | Process detected: WidgetService.exe PID=10472
+2026-08-25 12:55:03,287 | INFO | Process detected: svchost.exe PID=10560
+2026-08-25 12:55:03,311 | INFO | Process detected: Code.exe PID=10608
+2026-08-25 12:55:03,345 | INFO | Process detected: svchost.exe PID=10756
+2026-08-25 12:55:03,383 | INFO | Process detected: msedgewebview2.exe PID=10864
+2026-08-25 12:55:03,428 | INFO | Process detected: msedgewebview2.exe PID=10944
+2026-08-25 12:55:03,460 | INFO | Process detected: mscopilot_proxy.exe PID=10992
+2026-08-25 12:55:03,482 | INFO | Process detected: svchost.exe PID=11128
+2026-08-25 12:55:03,499 | INFO | Process detected: RuntimeBroker.exe PID=11160
+2026-08-25 12:55:03,534 | INFO | Process detected: msedgewebview2.exe PID=11228
+2026-08-25 12:55:03,564 | INFO | Process detected: NisSrv.exe PID=11304
+2026-08-25 12:55:03,592 | INFO | Process detected: svchost.exe PID=11324
+2026-08-25 12:55:03,607 | INFO | Process detected: msedgewebview2.exe PID=11476
+2026-08-25 12:55:03,631 | INFO | Process detected: nvsphelper64.exe PID=11604
+2026-08-25 12:55:03,652 | INFO | Process detected: conhost.exe PID=11724
+2026-08-25 12:55:03,684 | INFO | Process detected: msedgewebview2.exe PID=11812
+2026-08-25 12:55:03,702 | INFO | Process detected: powershell.exe PID=12136
+2026-08-25 12:55:03,719 | INFO | Process detected: svchost.exe PID=12184
+2026-08-25 12:55:03,739 | INFO | Process detected: RuntimeBroker.exe PID=12220
+2026-08-25 12:55:03,774 | INFO | Process detected: conhost.exe PID=12292
+2026-08-25 12:55:03,806 | INFO | Process detected: msedgewebview2.exe PID=12348
+2026-08-25 12:55:03,826 | INFO | Process detected: svchost.exe PID=12404
+2026-08-25 12:55:03,861 | INFO | Process detected: UnzipWatcher.exe PID=12576
+2026-08-25 12:55:03,893 | INFO | Process detected: SecurityHealthService.exe PID=12604
+2026-08-25 12:55:03,929 | INFO | Process detected: msedgewebview2.exe PID=12620
+2026-08-25 12:55:03,978 | INFO | Process detected: mscopilot.exe PID=12940
+2026-08-25 12:55:03,994 | INFO | Process detected: svchost.exe PID=13100
+2026-08-25 12:55:04,010 | INFO | Process detected: conhost.exe PID=13488
+2026-08-25 12:55:04,036 | INFO | Process detected: chrome.exe PID=13524
+2026-08-25 12:55:04,064 | INFO | Process detected: Code.exe PID=13748
+2026-08-25 12:55:04,096 | INFO | Process detected: dllhost.exe PID=13844
+2026-08-25 12:55:04,122 | INFO | Process detected: msedgewebview2.exe PID=13932
+2026-08-25 12:55:04,145 | INFO | Process detected: LockApp.exe PID=13960
+2026-08-25 12:55:04,172 | INFO | Process detected: msedgewebview2.exe PID=14056
+2026-08-25 12:55:04,196 | INFO | Process detected: msedgewebview2.exe PID=14344
+2026-08-25 12:55:04,234 | INFO | Process detected: msedgewebview2.exe PID=14428
+2026-08-25 12:55:04,261 | INFO | Process detected: chrome.exe PID=14452
+2026-08-25 12:55:04,283 | INFO | Process detected: RuntimeBroker.exe PID=14492
+2026-08-25 12:55:04,302 | INFO | Process detected: chrome.exe PID=14496
+2026-08-25 12:55:04,330 | INFO | Process detected: svchost.exe PID=14520
+2026-08-25 12:55:04,360 | INFO | Process detected: svchost.exe PID=14528
+2026-08-25 12:55:04,409 | INFO | Process detected: RuntimeBroker.exe PID=14616
+2026-08-25 12:55:04,427 | INFO | Process detected: RuntimeBroker.exe PID=14652
+2026-08-25 12:55:04,456 | INFO | Process detected: SearchHost.exe PID=14656
+2026-08-25 12:55:04,495 | INFO | Process detected: CrossDeviceResume.exe PID=14688
+2026-08-25 12:55:04,525 | INFO | Process detected: Code.exe PID=14792
+2026-08-25 12:55:04,546 | INFO | Process detected: msedge.exe PID=14888
+2026-08-25 12:55:04,575 | INFO | Process detected: SearchFilterHost.exe PID=14972
+2026-08-25 12:55:04,591 | INFO | Process detected: ms-teams.exe PID=15028
+2026-08-25 12:55:04,612 | INFO | Process detected: msedgewebview2.exe PID=15148
+2026-08-25 12:55:04,631 | INFO | Process detected: RuntimeBroker.exe PID=15248
+2026-08-25 12:55:04,650 | INFO | Process detected: CrossDeviceService.exe PID=15392
+2026-08-25 12:55:04,678 | INFO | Process detected: ctfmon.exe PID=15412
+2026-08-25 12:55:04,698 | INFO | Process detected: RuntimeBroker.exe PID=15468
+2026-08-25 12:55:04,721 | INFO | Process detected: powershell.exe PID=15788
+2026-08-25 12:55:04,751 | INFO | Process detected: unsecapp.exe PID=15824
+2026-08-25 12:55:04,770 | INFO | Process detected: nahimicNotifSys.exe PID=15836
+2026-08-25 12:55:04,815 | INFO | Process detected: smartscreen.exe PID=15984
+2026-08-25 12:55:04,854 | INFO | Process detected: msedgewebview2.exe PID=16020
+2026-08-25 12:55:04,870 | INFO | Process detected: OneDrive.exe PID=16052
+2026-08-25 12:55:04,890 | INFO | Process detected: ShellHost.exe PID=16112
+2026-08-25 12:55:04,918 | INFO | Process detected: msedgewebview2.exe PID=16152
+2026-08-25 12:55:04,954 | INFO | Process detected: PhoneExperienceHost.exe PID=16188
+2026-08-25 12:55:04,979 | INFO | Process detected: dllhost.exe PID=16388
+2026-08-25 12:55:05,001 | INFO | Process detected: mscopilot.exe PID=16452
+2026-08-25 12:55:05,034 | INFO | Process detected: SearchProtocolHost.exe PID=16552
+2026-08-25 12:55:05,076 | INFO | Process detected: svchost.exe PID=16720
+2026-08-25 12:55:05,121 | INFO | Process detected: LenovoVantage-(LenovoGamingSystemAddin).exe PID=16772
+2026-08-25 12:55:05,146 | INFO | Process detected: codex.exe PID=17020
+2026-08-25 12:55:05,176 | INFO | Process detected: LenovoVantage-(GenericMessagingAddin).exe PID=17248
+2026-08-25 12:55:05,198 | INFO | Process detected: chrome.exe PID=17256
+2026-08-25 12:55:05,217 | INFO | Process detected: fontdrvhost.exe PID=17276
+2026-08-25 12:55:05,243 | INFO | Process detected: msedge.exe PID=17336
+2026-08-25 12:55:05,268 | INFO | Process detected: SearchFilterHost.exe PID=17360
+2026-08-25 12:55:05,304 | INFO | Process detected: OpenConsole.exe PID=17524
+2026-08-25 12:55:05,326 | INFO | Process detected: RuntimeBroker.exe PID=17644
+2026-08-25 12:55:05,352 | INFO | Process detected: Code.exe PID=17728
+2026-08-25 12:55:05,368 | INFO | Process detected: svchost.exe PID=17908
+2026-08-25 12:55:05,381 | INFO | Process detected: taskhostw.exe PID=18032
+2026-08-25 12:55:05,825 | INFO | Process detected: svchost.exe PID=18108
+2026-08-25 12:55:05,856 | INFO | Process detected: msedgewebview2.exe PID=18156
+2026-08-25 12:55:05,886 | INFO | Process detected: svchost.exe PID=18188
+2026-08-25 12:55:05,919 | INFO | Process detected: WhatsApp.Root.exe PID=18200
+2026-08-25 12:55:05,955 | INFO | Process detected: msedgewebview2.exe PID=18220
+2026-08-25 12:55:05,991 | INFO | Process detected: Code.exe PID=18412
+2026-08-25 12:55:06,026 | INFO | Process detected: SEGameTool.exe PID=18480
+2026-08-25 12:55:06,082 | INFO | Process detected: svchost.exe PID=18648
+2026-08-25 12:55:06,117 | INFO | Process detected: svchost.exe PID=18836
+2026-08-25 12:55:06,145 | INFO | Process detected: sihost.exe PID=19000
+2026-08-25 12:55:06,173 | INFO | Process detected: svchost.exe PID=19184
+2026-08-25 12:55:06,206 | INFO | Process detected: svchost.exe PID=19200
+2026-08-25 12:55:06,234 | INFO | Process detected: svchost.exe PID=19224
+2026-08-25 12:55:06,264 | INFO | Process detected: NVIDIA Share.exe PID=19324
+2026-08-25 12:55:06,293 | INFO | Process detected: msedgewebview2.exe PID=19372
+2026-08-25 12:55:06,320 | INFO | Process detected: Code.exe PID=19484
+2026-08-25 12:55:06,350 | INFO | Process detected: backgroundTaskHost.exe PID=19528
+2026-08-25 12:55:06,380 | INFO | Process detected: ms-teams.exe PID=19532
+2026-08-25 12:55:06,412 | INFO | Process detected: QSHelper.exe PID=19628
+2026-08-25 12:55:06,441 | INFO | Process detected: Code.exe PID=19684
+2026-08-25 12:55:06,484 | INFO | Process detected: ipf_helper.exe PID=19764
+2026-08-25 12:55:06,515 | INFO | Process detected: NVIDIA Web Helper.exe PID=19808
+2026-08-25 12:55:06,553 | INFO | Process detected: nvcontainer.exe PID=19924
+2026-08-25 12:55:06,608 | INFO | Process detected: msedge.exe PID=20032
+2026-08-25 12:55:06,640 | INFO | Process detected: svchost.exe PID=20304
+2026-08-25 12:55:06,665 | INFO | Process detected: msedge.exe PID=20880
+2026-08-25 12:55:06,692 | INFO | Process detected: audiodg.exe PID=20920
+2026-08-25 12:55:06,713 | INFO | Process detected: python.exe PID=21148
+2026-08-25 12:55:06,733 | INFO | Process detected: chrome.exe PID=21240
+2026-08-25 12:55:06,763 | INFO | Process detected: python.exe PID=21276
+2026-08-25 12:55:06,817 | INFO | Process detected: Code.exe PID=21360
+2026-08-25 12:55:06,845 | INFO | Process detected: msedgewebview2.exe PID=21380
+2026-08-25 12:55:06,872 | INFO | Process detected: Locator.exe PID=21388
+2026-08-25 12:55:06,904 | INFO | Process detected: msedgewebview2.exe PID=21464
+2026-08-25 12:55:06,927 | INFO | Process detected: Nahimic3.exe PID=21496
+2026-08-25 12:55:06,968 | INFO | Process detected: UserOOBEBroker.exe PID=21624
+2026-08-25 12:55:06,995 | INFO | Process detected: svchost.exe PID=21656
+2026-08-25 12:55:07,027 | INFO | Process detected: ApplicationFrameHost.exe PID=21936
+2026-08-25 12:55:07,082 | INFO | Process detected: svchost.exe PID=21968
+2026-08-25 12:55:07,108 | INFO | Process detected: SecurityHealthSystray.exe PID=22216
+2026-08-25 12:55:07,136 | INFO | Process detected: svchost.exe PID=22292
+2026-08-25 12:55:07,165 | INFO | Process detected: svchost.exe PID=22348
+2026-08-25 12:55:07,202 | INFO | Process detected: svchost.exe PID=22356
+2026-08-25 12:55:07,234 | INFO | Process detected: svchost.exe PID=22364
+2026-08-25 12:55:07,271 | INFO | Process detected: NVIDIA Share.exe PID=22480
+2026-08-25 12:55:07,320 | INFO | Process detected: chrome.exe PID=22496
+2026-08-25 12:55:07,343 | INFO | Process detected: svchost.exe PID=22500
+2026-08-25 12:55:07,372 | INFO | Process detected: chrome.exe PID=22552
+2026-08-25 12:55:07,401 | INFO | Process detected: conhost.exe PID=22664
+2026-08-25 12:55:07,431 | INFO | Process detected: nvcontainer.exe PID=23020
+2026-08-25 12:55:07,463 | INFO | Process detected: Code.exe PID=23104
+2026-08-25 12:55:07,499 | INFO | Process detected: svchost.exe PID=23196
+2026-08-25 12:55:07,531 | INFO | Process detected: svchost.exe PID=23228
+2026-08-25 12:55:07,560 | INFO | Process detected: SystemSettings.exe PID=23272
+2026-08-25 12:55:07,591 | INFO | Process detected: NahimicSvc32.exe PID=23388
+2026-08-25 12:55:07,611 | INFO | Process detected: Code.exe PID=23528
+2026-08-25 12:55:07,635 | INFO | Process detected: chrome.exe PID=23540
+2026-08-25 12:55:07,947 | WARNING | Unable to inspect service: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 12:55:32,614 | WARNING | High CPU usage detected: System Idle Process PID=0 CPU=1066.5%
+2026-08-25 12:55:34,968 | INFO | Process detected: chrome.exe PID=8256
+2026-08-25 12:55:36,508 | INFO | Process detected: chrome.exe PID=18900
+2026-08-25 12:55:37,228 | INFO | Process terminated: PID=3808
+2026-08-25 12:55:37,252 | INFO | Process terminated: PID=13524
+2026-08-25 12:55:37,561 | WARNING | Unable to inspect service: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 12:56:03,824 | WARNING | High CPU usage detected: System Idle Process PID=0 CPU=892.9%
+2026-08-25 12:56:12,253 | WARNING | Unable to inspect service: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 12:56:38,935 | WARNING | High CPU usage detected: System Idle Process PID=0 CPU=1061.7%
+2026-08-25 12:56:46,149 | WARNING | High CPU usage detected: chrome.exe PID=22496 CPU=100.2%
+2026-08-25 12:56:46,964 | WARNING | Unable to inspect service: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 12:57:10,717 | WARNING | High CPU usage detected: System Idle Process PID=0 CPU=957.7%
+2026-08-25 12:57:11,938 | INFO | Process detected: chrome.exe PID=10576
+2026-08-25 12:57:12,892 | INFO | Process detected: chrome.exe PID=22980
+2026-08-25 12:57:12,966 | INFO | Process terminated: PID=18900
+2026-08-25 12:57:13,138 | WARNING | Unable to inspect service: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 12:57:37,482 | WARNING | High CPU usage detected: System Idle Process PID=0 CPU=806.5%
+2026-08-25 12:57:39,777 | WARNING | Unable to inspect service: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 12:58:04,309 | WARNING | High CPU usage detected: System Idle Process PID=0 CPU=1595.7%
+2026-08-25 12:58:06,407 | INFO | Process terminated: PID=22980
+2026-08-25 12:58:06,571 | WARNING | Unable to inspect service: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 12:58:31,259 | WARNING | High CPU usage detected: System Idle Process PID=0 CPU=1209.7%
+2026-08-25 12:58:33,347 | INFO | Process terminated: PID=15984
+2026-08-25 12:58:33,501 | WARNING | Unable to inspect service: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 12:58:58,107 | WARNING | High CPU usage detected: System Idle Process PID=0 CPU=1494.6%
+2026-08-25 12:59:00,105 | INFO | Process terminated: PID=20920
+2026-08-25 12:59:00,270 | WARNING | Unable to inspect service: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 12:59:25,027 | WARNING | High CPU usage detected: System Idle Process PID=0 CPU=1140.9%
+2026-08-25 12:59:27,346 | WARNING | Unable to inspect service: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 12:59:50,621 | WARNING | High CPU usage detected: System Idle Process PID=0 CPU=1529.3%
+2026-08-25 12:59:54,729 | WARNING | Unable to inspect service: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:00:20,064 | WARNING | High CPU usage detected: System Idle Process PID=0 CPU=1529.3%
+2026-08-25 13:00:20,562 | INFO | Process detected: IdleScheduleEventAction.exe PID=4456
+2026-08-25 13:00:20,777 | INFO | Process detected: WmiPrvSE.exe PID=5144
+2026-08-25 13:00:21,035 | INFO | Process detected: MoUsoCoreWorker.exe PID=8144
+2026-08-25 13:00:21,213 | INFO | Process detected: svchost.exe PID=10520
+2026-08-25 13:00:21,257 | INFO | Process detected: smartscreen.exe PID=10648
+2026-08-25 13:00:21,607 | INFO | Process detected: svchost.exe PID=14660
+2026-08-25 13:00:22,370 | WARNING | Unable to inspect service: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:00:47,642 | WARNING | High CPU usage detected: System Idle Process PID=0 CPU=1097.1%
+2026-08-25 13:00:49,762 | WARNING | Unable to inspect service: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:01:14,966 | WARNING | High CPU usage detected: System Idle Process PID=0 CPU=1116.1%
+2026-08-25 13:01:17,032 | INFO | Process terminated: PID=8144
+2026-08-25 13:01:17,038 | INFO | Process terminated: PID=14660
+2026-08-25 13:01:17,185 | WARNING | Unable to inspect service: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:01:41,740 | WARNING | High CPU usage detected: System Idle Process PID=0 CPU=907.3%
+2026-08-25 13:01:43,811 | INFO | Process detected: svchost.exe PID=22896
+2026-08-25 13:01:43,859 | INFO | Process terminated: PID=5144
+2026-08-25 13:01:43,864 | INFO | Process terminated: PID=4456
+2026-08-25 13:01:44,018 | WARNING | Unable to inspect service: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:02:08,481 | WARNING | High CPU usage detected: System Idle Process PID=0 CPU=1163.6%
+2026-08-25 13:02:10,108 | INFO | Process detected: chrome.exe PID=17220
+2026-08-25 13:02:10,550 | INFO | Process detected: chrome.exe PID=22688
+2026-08-25 13:02:10,612 | INFO | Process terminated: PID=10576
+2026-08-25 13:02:10,620 | INFO | Process terminated: PID=22896
+2026-08-25 13:02:10,770 | WARNING | Unable to inspect service: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:02:35,701 | WARNING | High CPU usage detected: System Idle Process PID=0 CPU=1595.7%
+2026-08-25 13:02:38,103 | WARNING | Unable to inspect service: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:03:02,884 | WARNING | High CPU usage detected: System Idle Process PID=0 CPU=1529.3%
+2026-08-25 13:03:04,993 | INFO | Process terminated: PID=22688
+2026-08-25 13:03:05,150 | WARNING | Unable to inspect service: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:03:30,037 | WARNING | High CPU usage detected: System Idle Process PID=0 CPU=1097.1%
+2026-08-25 13:03:32,252 | WARNING | Unable to inspect service: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:03:56,696 | WARNING | High CPU usage detected: System Idle Process PID=0 CPU=1063.8%
+2026-08-25 13:03:59,676 | WARNING | Unable to inspect service: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:04:23,869 | WARNING | High CPU usage detected: System Idle Process PID=0 CPU=1462.8%
+2026-08-25 13:04:24,677 | WARNING | High CPU usage detected: Code.exe PID=6056 CPU=101.9%
+2026-08-25 13:04:25,942 | WARNING | Unable to inspect service: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:04:46,871 | INFO | Monitoring agent stopped by user.
+2026-08-25 13:13:14,321 | WARNING | Process System Idle Process (PID 0) is using 1063.8% CPU.
+2026-08-25 13:13:16,602 | WARNING | Service inspection failed: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:13:41,205 | WARNING | Process System Idle Process (PID 0) is using 1562.5% CPU.
+2026-08-25 13:13:43,240 | WARNING | Process python.exe (PID 9676) is using 99.7% CPU.
+2026-08-25 13:13:45,819 | WARNING | Service inspection failed: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:14:10,951 | WARNING | Process System Idle Process (PID 0) is using 1083.7% CPU.
+2026-08-25 13:14:13,105 | WARNING | Process python.exe (PID 9676) is using 100.8% CPU.
+2026-08-25 13:14:15,489 | WARNING | Service inspection failed: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:14:44,714 | WARNING | Process System Idle Process (PID 0) is using 1154.9% CPU.
+2026-08-25 13:14:48,363 | WARNING | Process python.exe (PID 9676) is using 99.2% CPU.
+2026-08-25 13:14:51,731 | WARNING | Service inspection failed: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:15:17,925 | WARNING | Process System Idle Process (PID 0) is using 1529.3% CPU.
+2026-08-25 13:15:22,399 | WARNING | Service inspection failed: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:15:49,594 | WARNING | Process System Idle Process (PID 0) is using 1140.9% CPU.
+2026-08-25 13:15:51,513 | WARNING | Process python.exe (PID 9676) is using 99.2% CPU.
+2026-08-25 13:15:52,632 | WARNING | Service inspection failed: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:16:19,379 | WARNING | Process System Idle Process (PID 0) is using 1083.7% CPU.
+2026-08-25 13:16:21,392 | WARNING | Process python.exe (PID 9676) is using 100.8% CPU.
+2026-08-25 13:16:22,609 | WARNING | Service inspection failed: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:16:47,881 | WARNING | Process System Idle Process (PID 0) is using 1165.7% CPU.
+2026-08-25 13:16:51,084 | WARNING | Service inspection failed: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:17:18,658 | WARNING | Process System Idle Process (PID 0) is using 781.2% CPU.
+2026-08-25 13:17:23,563 | WARNING | Process python.exe (PID 9676) is using 101.9% CPU.
+2026-08-25 13:17:27,979 | INFO | Process terminated: PID 6156
+2026-08-25 13:17:28,889 | WARNING | Service inspection failed: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:18:18,323 | WARNING | Process System Idle Process (PID 0) is using 818.5% CPU.
+2026-08-25 13:19:11,239 | WARNING | Process python.exe (PID 9676) is using 100.2% CPU.
+2026-08-25 13:19:12,758 | WARNING | Service inspection failed: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:19:36,691 | WARNING | Process System Idle Process (PID 0) is using 768.8% CPU.
+2026-08-25 13:19:38,642 | INFO | Process terminated: PID 3496
+2026-08-25 13:19:38,815 | WARNING | Service inspection failed: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:20:02,865 | WARNING | Process System Idle Process (PID 0) is using 744.0% CPU.
+2026-08-25 13:20:05,022 | WARNING | Service inspection failed: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:20:28,775 | WARNING | Process System Idle Process (PID 0) is using 1363.0% CPU.
+2026-08-25 13:20:31,098 | WARNING | Service inspection failed: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:20:55,200 | WARNING | Process System Idle Process (PID 0) is using 818.5% CPU.
+2026-08-25 13:20:56,686 | WARNING | Process Code.exe (PID 7900) is using 101.9% CPU.
+2026-08-25 13:20:58,288 | WARNING | Service inspection failed: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:21:22,725 | WARNING | Process System Idle Process (PID 0) is using 1058.5% CPU.
+2026-08-25 13:21:28,187 | WARNING | Service inspection failed: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:21:53,202 | WARNING | Process System Idle Process (PID 0) is using 1496.0% CPU.
+2026-08-25 13:21:57,350 | WARNING | Service inspection failed: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:22:21,124 | INFO | Monitoring agent stopped by user.
+2026-08-25 13:30:20,166 | WARNING | Process System Idle Process (PID 0) is using 655.2% CPU.
+2026-08-25 13:30:39,822 | WARNING | Service inspection failed: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:31:11,368 | WARNING | Process System Idle Process (PID 0) is using 1282.1% CPU.
+2026-08-25 13:31:12,746 | WARNING | Process Code.exe (PID 7900) is using 124.0% CPU.
+2026-08-25 13:31:14,278 | INFO | Process terminated: PID 11712
+2026-08-25 13:31:14,288 | INFO | Process terminated: PID 4576
+2026-08-25 13:31:14,300 | INFO | Process terminated: PID 13764
+2026-08-25 13:31:14,311 | INFO | Process terminated: PID 20236
+2026-08-25 13:31:14,324 | INFO | Process terminated: PID 4380
+2026-08-25 13:31:14,646 | WARNING | Service inspection failed: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:31:45,569 | WARNING | Process System Idle Process (PID 0) is using 1165.7% CPU.
+2026-08-25 13:31:49,613 | INFO | Process terminated: PID 444
+2026-08-25 13:31:49,619 | INFO | Process terminated: PID 4036
+2026-08-25 13:31:49,628 | INFO | Process terminated: PID 3908
+2026-08-25 13:31:49,887 | WARNING | Service inspection failed: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:32:14,345 | WARNING | Process System Idle Process (PID 0) is using 892.9% CPU.
+2026-08-25 13:32:20,120 | INFO | Process terminated: PID 11496
+2026-08-25 13:32:20,126 | INFO | Process terminated: PID 3260
+2026-08-25 13:32:20,141 | INFO | Process terminated: PID 740
+2026-08-25 13:32:20,489 | WARNING | Service inspection failed: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:32:47,982 | WARNING | Process System Idle Process (PID 0) is using 220.4% CPU.
+2026-08-25 13:32:51,134 | WARNING | Process python.exe (PID 16416) is using 99.7% CPU.
+2026-08-25 13:32:52,348 | WARNING | Service inspection failed: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:33:17,070 | WARNING | Process System Idle Process (PID 0) is using 768.8% CPU.
+2026-08-25 13:33:20,304 | INFO | Process terminated: PID 4240
+2026-08-25 13:33:20,819 | WARNING | Service inspection failed: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:33:46,474 | WARNING | Process System Idle Process (PID 0) is using 1396.3% CPU.
+2026-08-25 13:33:47,183 | WARNING | Process msedgewebview2.exe (PID 5076) is using 99.2% CPU.
+2026-08-25 13:33:48,599 | WARNING | Service inspection failed: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:34:24,190 | WARNING | Process System Idle Process (PID 0) is using 719.2% CPU.
+2026-08-25 13:35:43,871 | WARNING | Process python.exe (PID 16416) is using 99.2% CPU.
+2026-08-25 13:35:45,233 | INFO | Process terminated: PID 18944
+2026-08-25 13:35:45,246 | INFO | Process terminated: PID 19652
+2026-08-25 13:35:45,266 | INFO | Process terminated: PID 15876
+2026-08-25 13:35:45,281 | INFO | Process terminated: PID 12836
+2026-08-25 13:35:45,301 | INFO | Process terminated: PID 23208
+2026-08-25 13:35:45,310 | INFO | Process terminated: PID 15052
+2026-08-25 13:35:45,329 | INFO | Process terminated: PID 11600
+2026-08-25 13:35:45,340 | INFO | Process terminated: PID 4440
+2026-08-25 13:35:45,814 | WARNING | Service inspection failed: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:36:14,209 | WARNING | Process System Idle Process (PID 0) is using 892.9% CPU.
+2026-08-25 13:36:16,983 | WARNING | Process chrome.exe (PID 22496) is using 232.7% CPU.
+2026-08-25 13:36:17,116 | INFO | Process terminated: PID 8496
+2026-08-25 13:36:17,130 | INFO | Process terminated: PID 16260
+2026-08-25 13:36:17,729 | WARNING | Service inspection failed: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:36:43,944 | WARNING | Process System Idle Process (PID 0) is using 1429.5% CPU.
+2026-08-25 13:36:47,870 | WARNING | Service inspection failed: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:37:16,709 | WARNING | Process System Idle Process (PID 0) is using 1091.3% CPU.
+2026-08-25 13:37:19,851 | WARNING | Process chrome.exe (PID 22496) is using 101.9% CPU.
+2026-08-25 13:37:19,993 | INFO | Process terminated: PID 5232
+2026-08-25 13:37:20,004 | INFO | Process terminated: PID 20476
+2026-08-25 13:37:20,024 | INFO | Process terminated: PID 13244
+2026-08-25 13:37:20,518 | WARNING | Service inspection failed: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:37:47,158 | WARNING | Process System Idle Process (PID 0) is using 1363.0% CPU.
+2026-08-25 13:37:53,710 | WARNING | Service inspection failed: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:38:20,939 | WARNING | Process System Idle Process (PID 0) is using 1101.8% CPU.
+2026-08-25 13:38:24,417 | WARNING | Process chrome.exe (PID 22496) is using 99.7% CPU.
+2026-08-25 13:38:24,609 | INFO | Process terminated: PID 23232
+2026-08-25 13:38:24,627 | INFO | Process terminated: PID 3808
+2026-08-25 13:38:24,653 | INFO | Process terminated: PID 20164
+2026-08-25 13:38:24,668 | INFO | Process terminated: PID 3944
+2026-08-25 13:38:24,685 | INFO | Process terminated: PID 14364
+2026-08-25 13:38:25,228 | WARNING | Service inspection failed: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:38:52,325 | WARNING | Process System Idle Process (PID 0) is using 892.9% CPU.
+2026-08-25 13:39:01,386 | WARNING | Service inspection failed: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:39:27,578 | WARNING | Process System Idle Process (PID 0) is using 1562.5% CPU.
+2026-08-25 13:39:30,940 | WARNING | Service inspection failed: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'
+2026-08-25 13:39:58,527 | WARNING | Process System Idle Process (PID 0) is using 1091.3% CPU.
+2026-08-25 14:46:40,543 | INFO | Process terminated: PID 15208
+2026-08-25 14:46:40,569 | INFO | Process terminated: PID 20804
+2026-08-25 14:46:41,228 | WARNING | Service inspection failed: [WinError 2] The system cannot find the file specified: '(originated from QueryServiceConfig2W)'

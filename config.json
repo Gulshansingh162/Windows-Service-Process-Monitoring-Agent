@@ -1,0 +1,22 @@
+{
+    "monitor_interval": 5,
+
+    "api_host": "127.0.0.1",
+    "api_port": 5000,
+
+    "process_cpu_threshold": 90.0,
+    "process_memory_threshold": 80.0,
+
+    "monitored_processes": [],
+
+    "monitored_services": [
+        "Spooler",
+        "EventLog",
+        "WinDefend"
+    ],
+
+    "dashboard_username": "admin",
+    "dashboard_password": "Admin@12345",
+
+    "session_secret": "CHANGE_THIS_TO_A_LONG_RANDOM_SECRET"
+}

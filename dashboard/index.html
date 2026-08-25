@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>
+        Sentinel Monitor
+    </title>
+
+    <link
+        rel="stylesheet"
+        href="/style.css"
+    >
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+</head>
+
+<body>
+
+<header class="topbar">
+
+    <div class="brand">
+
+        <div class="brand-icon">
+            🛡
+        </div>
+
+        <div>
+
+            <h1>
+                Sentinel Monitor
+            </h1>
+
+            <span>
+                Windows Service & Process Monitoring
+            </span>
+
+        </div>
+
+    </div>
+
+
+    <div class="header-right">
+
+        <div
+            id="agentStatus"
+            class="agent-status"
+        >
+            ● Checking...
+        </div>
+
+        <div
+            id="currentUser"
+            class="user-badge"
+        >
+            Admin
+        </div>
+
+        <button
+            id="logoutButton"
+            class="logout-button"
+        >
+            Logout
+        </button>
+
+    </div>
+
+</header>
+
+
+<main class="dashboard">
+
+
+    <!-- STAT CARDS -->
+
+    <section class="stats-grid">
+
+        <div class="stat-card">
+
+            <div class="stat-icon">
+                ⚡
+            </div>
+
+            <div>
+
+                <span>
+                    CPU Usage
+                </span>
+
+                <strong id="cpuValue">
+                    0%
+                </strong>
+
+            </div>
+
+        </div>
+
+
+        <div class="stat-card">
+
+            <div class="stat-icon">
+                ◈
+            </div>
+
+            <div>
+
+                <span>
+                    Memory Usage
+                </span>
+
+                <strong id="memoryValue">
+                    0%
+                </strong>
+
+            </div>
+
+        </div>
+
+
+        <div class="stat-card">
+
+            <div class="stat-icon">
+                ⚙
+            </div>
+
+            <div>
+
+                <span>
+                    Processes
+                </span>
+
+                <strong id="processValue">
+                    0
+                </strong>
+
+            </div>
+
+        </div>
+
+
+        <div class="stat-card alert-card">
+
+            <div class="stat-icon">
+                🚨
+            </div>
+
+            <div>
+
+                <span>
+                    Active Alerts
+                </span>
+
+                <strong id="alertValue">
+                    0
+                </strong>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- CHARTS -->
+
+    <section class="charts-grid">
+
+        <div class="panel chart-panel">
+
+            <div class="panel-header">
+
+                <div>
+
+                    <h2>
+                        System Performance
+                    </h2>
+
+                    <p>
+                        Real-time CPU and memory utilization
+                    </p>
+
+                </div>
+
+            </div>
+
+            <canvas
+                id="performanceChart"
+            ></canvas>
+
+        </div>
+
+
+        <div class="panel">
+
+            <div class="panel-header">
+
+                <div>
+
+                    <h2>
+                        Security Overview
+                    </h2>
+
+                    <p>
+                        Current monitoring state
+                    </p>
+
+                </div>
+
+            </div>
+
+            <div class="security-grid">
+
+                <div class="security-item">
+
+                    <span>
+                        Agent
+                    </span>
+
+                    <strong
+                        id="securityAgent"
+                    >
+                        Checking
+                    </strong>
+
+                </div>
+
+                <div class="security-item">
+
+                    <span>
+                        Monitoring
+                    </span>
+
+                    <strong>
+                        ACTIVE
+                    </strong>
+
+                </div>
+
+                <div class="security-item">
+
+                    <span>
+                        Database
+                    </span>
+
+                    <strong>
+                        ONLINE
+                    </strong>
+
+                </div>
+
+                <div class="security-item">
+
+                    <span>
+                        API
+                    </span>
+
+                    <strong>
+                        ONLINE
+                    </strong>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- ALERTS -->
+
+    <section class="panel">
+
+        <div class="panel-header">
+
+            <div>
+
+                <h2>
+                    🚨 Active Security Alerts
+                </h2>
+
+                <p>
+                    Events requiring attention
+                </p>
+
+            </div>
+
+            <button
+                class="refresh-button"
+                onclick="loadAlerts()"
+            >
+                Refresh
+            </button>
+
+        </div>
+
+        <div
+            id="alertsContainer"
+            class="alerts-container"
+        ></div>
+
+    </section>
+
+
+    <!-- PROCESSES -->
+
+    <section class="panel">
+
+        <div class="panel-header">
+
+            <div>
+
+                <h2>
+                    Process Monitor
+                </h2>
+
+                <p>
+                    Running processes and resource utilization
+                </p>
+
+            </div>
+
+            <div class="search-area">
+
+                <input
+                    id="processSearch"
+                    type="text"
+                    placeholder="Search process or PID..."
+                >
+
+                <button
+                    onclick="loadProcesses()"
+                    class="refresh-button"
+                >
+                    Search
+                </button>
+
+            </div>
+
+        </div>
+
+
+        <div class="table-container">
+
+            <table>
+
+                <thead>
+
+                    <tr>
+
+                        <th>PID</th>
+                        <th>Process</th>
+                        <th>Status</th>
+                        <th>CPU</th>
+                        <th>Memory</th>
+                        <th>User</th>
+
+                    </tr>
+
+                </thead>
+
+                <tbody
+                    id="processTable"
+                ></tbody>
+
+            </table>
+
+        </div>
+
+    </section>
+
+
+    <!-- SERVICES -->
+
+    <section class="panel">
+
+        <div class="panel-header">
+
+            <div>
+
+                <h2>
+                    Windows Services
+                </h2>
+
+                <p>
+                    Monitor and control Windows services
+                </p>
+
+            </div>
+
+            <div class="search-area">
+
+                <input
+                    id="serviceSearch"
+                    type="text"
+                    placeholder="Search service..."
+                >
+
+                <button
+                    onclick="loadServices()"
+                    class="refresh-button"
+                >
+                    Search
+                </button>
+
+            </div>
+
+        </div>
+
+
+        <div class="table-container">
+
+            <table>
+
+                <thead>
+
+                    <tr>
+
+                        <th>Service</th>
+                        <th>Display Name</th>
+                        <th>Status</th>
+                        <th>Start Type</th>
+                        <th>Control</th>
+
+                    </tr>
+
+                </thead>
+
+                <tbody
+                    id="serviceTable"
+                ></tbody>
+
+            </table>
+
+        </div>
+
+    </section>
+
+
+    <!-- EVENTS -->
+
+    <section class="panel">
+
+        <div class="panel-header">
+
+            <div>
+
+                <h2>
+                    Event Timeline
+                </h2>
+
+                <p>
+                    Latest monitoring events
+                </p>
+
+            </div>
+
+            <button
+                class="refresh-button"
+                onclick="loadEvents()"
+            >
+                Refresh
+            </button>
+
+        </div>
+
+
+        <div class="table-container">
+
+            <table>
+
+                <thead>
+
+                    <tr>
+
+                        <th>Time</th>
+                        <th>Type</th>
+                        <th>Name</th>
+                        <th>Status</th>
+                        <th>Message</th>
+
+                    </tr>
+
+                </thead>
+
+                <tbody
+                    id="eventTable"
+                ></tbody>
+
+            </table>
+
+        </div>
+
+    </section>
+
+
+</main>
+
+
+<footer>
+
+    <span>
+        Sentinel Monitor
+    </span>
+
+    <span>
+        Windows Security Monitoring Agent
+    </span>
+
+</footer>
+
+
+<script src="/app.js"></script>
+
+</body>
+
+</html>
